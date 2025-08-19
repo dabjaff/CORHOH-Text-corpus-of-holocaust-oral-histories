@@ -1,6 +1,6 @@
 # CORHOH: Text Corpus of Holocaust Oral Histories
 
-This repository hosts documentation and related resources for **CORHOH (Text CORpus of HOlocaust Oral Histories)**. The corpus brings together **500 Holocaust survivor oral histories** from the United States Holocaust Memorial Museum (USHMM), normalized, annotated, and enriched with detailed metadata for use in linguistic, historical, psychological, and computational research.
+This repository hosts documentation and related resources for **CORHOH (Text CORpus of HOlocaust Oral Histories)**. The corpus brings together **500 Holocaust survivor oral histories** from the United States Holocaust Memorial Museum (USHMM), normalized, annotated, and enriched with detailed metadata for use in linguistic, historical, psychological, and computational research. The raw text of each file is copied from Let them Speak project (https://lts.fortunoff.library.yale.edu/about).
 
 ---
 
@@ -44,6 +44,21 @@ This repository hosts documentation and related resources for **CORHOH (Text COR
 - **Annotation:** Each oral history contains structured transcripts distinguishing between interviewer questions and survivor answers  
 
 The corpus is designed to support research across multiple disciplines, including linguistics, history, cultural studies, psychology, and digital humanities.
+
+---
+
+## Data Files  
+
+The corpus is distributed in two separate archives for convenience:  
+
+- **Q.zip** → Contains all **questions** asked by interviewers (`Q1, Q2, ... Qn`)  
+- **A.zip** → Contains all **answers** given by Holocaust survivors (`A1, A2, ... An`)  
+
+
+This separation allows researchers to:  
+- Focus exclusively on **interviewer discourse** (Q)  
+- Analyze only **survivor narratives** (A)  
+- Or combine both for full **dialogue reconstruction**  
 
 ---
 

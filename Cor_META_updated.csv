@@ -1,0 +1,501 @@
+Documents ID,Rec_Date,Length,A_#,Q_#,permission_type,Link,Name,DOB,Gender,Born,Ghetto,Camp,Imm_Date,Imm_Destination 
+RG-50.462.0010,1985,75,A1-A121,Q1-Q120,No restrictions,https://collections.ushmm.org/search/catalog/irn508631, Anatole Gorko,1907,M,Poland,null,Auschwitz,1948,USA
+RG-50.030.0519,2007,69,A122-A457,Q121-Q458,No restrictions,https://collections.ushmm.org/search/catalog/irn519108, Asa Shapiro,1922,M,Poland,null,Siberian labor camps,1949,USA
+RG-50.030.0674,2012,64,A458-A759,Q459-Q759,No restrictions,https://collections.ushmm.org/search/catalog/irn47889, Erwin Dankner,1928,M,Hungary,null,Bergen-Belsen,1948,USA
+RG-50.106.0055,1996,56,A760-A877,Q760-Q876,No restrictions,https://collections.ushmm.org/search/catalog/irn507553, Ida Henig,1924,F,Poland,Częstochowa,null,1950,USA
+RG-50.030.0088,1994,162,A878-A918,Q877-Q918,No restrictions,https://collections.ushmm.org/search/catalog/irn504583, Israel Gruzin,1928,M,Czechoslovakia,null,Dachau,1953,USA
+RG-50.030.0115,1990,116,A919-A976,Q919-Q959,no commercial,https://collections.ushmm.org/search/catalog/irn504609, John Komski,1915,M,Poland,null,"Buchenwald, Hersbruck, Auschwitz, Auschwitz II-Birkenau, Dachau, Gross-Rosen",null,USA
+RG-50.462.0064,1982,119,A977-A1140,Q960-Q1127,No restrictions,https://collections.ushmm.org/search/catalog/irn508688, Malvina Herzfeld,1914,F,Switzerland ,null,"Budy, Auschwitz, Bergen-Belsen, Auschwitz II-Birkenau, Westerbork",1947,USA
+RG-50.030.0098,1990,120,A1141-A1152,Q1128-Q1139,no commercial,https://collections.ushmm.org/search/catalog/irn504592, Miriam Farcus Ingber,1931,F,Czechoslovakia,null,Auschwitz,1957,USA
+RG-50.030.0067,1990,126,A1153-A1219,Q1140-Q1172,no commercial,https://collections.ushmm.org/search/catalog/irn504563, Selma Engel,1922,F,Netherlands ,null,Sobibór,1957,USA
+RG-50.030.0697,2013,129,A1220-A1707,Q1173-Q1663,No restrictions,https://collections.ushmm.org/search/catalog/irn59191,Goldie Buch Jonas,1928,F,Poland,null,camp,1950,USA
+RG-50.462.0071,1985,91,A1708-A1965,Q1664-Q1918,No restrictions,https://collections.ushmm.org/search/catalog/irn508695,Aaron Stolzman,1925,M,Poland,Mława,"Mühldorf, Auschwitz, Dachau, Gross-Rosen",1947,USA
+RG-50.030.0292,1994,275,A1966-A2040,Q1919-Q1992,No restrictions,https://collections.ushmm.org/search/catalog/irn504788,Abe Resnick,1924,M,Lithuania,Kaunas,Sachsenhausen,1947,USA
+RG-50.322.0032,1980,175,A2041-A2085,Q1993-Q2038,No restrictions,https://collections.ushmm.org/search/catalog/irn510486,Abe Stine,1920,M,Poland,null,"Niederkild, Markstädt, Funfteichen, Gross-Rosen, Buchenwald",null,USA
+RG-50.030.0113,1990,122,A2086-A2130,Q2039-Q2084,No restrictions,https://collections.ushmm.org/search/catalog/irn504607,Abraham Kolski,1917,M,Poland,Częstochowa,Treblinka,1954,USA
+RG-50.030.0130,1989,114,A2131-A2156,Q2085-Q2113,No restrictions,https://collections.ushmm.org/search/catalog/irn504624,Abraham Lewent,1924,M,Poland,Warsaw,"Skarzysko-Kamienna, Buchenwald, Dachau, Majdanek, Bisingen",null,USA
+RG-50.549.05.0004,1999,146,A2157-A2408,Q2114-Q2368,No restrictions,https://collections.ushmm.org/search/catalog/irn508255,Abram Jakubowicz,1924,M,Hungary,Piotrków Trybunalski,"Auschwitz, Oranienburg-Sachsenhausen, Ohrdruf, and Buchenwald",1957,USA
+RG-50.030.0527,2008,371,A2409-A3417,Q2369-Q3383,No restrictions,https://collections.ushmm.org/search/catalog/irn36962,Ada Ustjanauskas,1926,F,Lithuania,Vilnius,null,1948,Australia 
+RG-50.030.0327,1995,91,A3418-A3498,Q3384-Q3457,No restrictions,https://collections.ushmm.org/search/catalog/irn504821,Adam Beer,1922,M,Czechoslovakia ,null,null,1948,USA
+RG-50.549.02.0046,1999,115,A3499-A3685,Q3458-Q3646,No restrictions,https://collections.ushmm.org/search/catalog/irn506722,Adam Starkopf,1914,M,Poland,Warsaw,Treblinka,null,USA
+RG-50.030.0784,2015,195,A3686-A4287,Q3647-Q4251,No restrictions,https://collections.ushmm.org/search/catalog/irn96012,Adam Szymel,1928,M,Poland,Siberian labor camps,null,1954,USA
+RG-50.106.0006,1994,57,A4288-A4515,Q4252-Q4480,No restrictions,https://collections.ushmm.org/search/catalog/irn504428,Adriana Funaro,1923,M,Italy,na,null,1947,USA
+RG-50.030.0003,1990,126,A4516-A4543,Q4481-Q4507,No restrictions,https://collections.ushmm.org/search/catalog/irn504469,Agnes Mandl Adachi,1918,F,Hungary,null,null,null,USA
+RG-50.549.02.0006,1997,204,A4544-A4948,Q4508-Q4918,No restrictions,https://collections.ushmm.org/search/catalog/irn506740,Agnes Vogel,1924,F,Germany,Debrecen Ghetto,Bergen-Belsen,1946,USA
+RG-50.562.0002,2003,168,A4949-A5914,Q4919-Q5891,No restrictions,https://collections.ushmm.org/search/catalog/irn514242,Alan Kalish,1927,M,Czechoslovakia,null,"Auschwitz, Buchenwald",null,USA
+RG-50.462.0111,1989,60,A5915-A6125,Q5892-Q6103,No restrictions,https://collections.ushmm.org/search/catalog/irn515630,Alex Krasheninnikow,1934,M,Ukraine,null,Brätz ,1950,USA
+RG-50.462.0009,1985,94,A6126-A6301,Q6104-Q6281,No restrictions,https://collections.ushmm.org/search/catalog/irn508630,Alexandra Gorko,1916,F,Ukraine,Łódź,"Mühlhausen, Auschwitz, Bergen-Belsen, Ravensbrück",1948,USA
+RG-50.106.0173,2008,289,A6302-A6706,Q6282-Q6689,No restrictions,https://collections.ushmm.org/search/catalog/irn35973,Alfred Lakritz,1934,M,Germany,null,null,1950,USA
+RG-50.030.0608,2010,308,A6707-A7459,Q6690-Q7455,No restrictions,https://collections.ushmm.org/search/catalog/irn42272,Algimantas Gureckas,1923,M,Lithuania,Vilnius,null,null,USA
+RG-50.030.0360,1995,165,A7460-A7557,Q7456-Q7556,No restrictions,https://collections.ushmm.org/search/catalog/irn504853,Alice Eberstarkova Masters,1925,F,Czechoslovakia ,null,null,1948,USA
+RG-50.030.0469,2002,321,A7558-A8763,Q7557-Q8769,No restrictions,https://collections.ushmm.org/search/catalog/irn511521,Alice Jakubovic,1922,F,Slovakia,null,"Auschwitz, Ravensbrück",null,Canada
+RG-50.030.0194,1990,56,A8764-A8786,Q8770-Q8775,no commercial ,https://collections.ushmm.org/search/catalog/irn504689,Alice Lang Rosen,1934,F,Germany,null,"Gurs, Rivesaltes",1949,USA
+RG-50.030.0198,1990,144,A8787-A8826,Q8776-Q8785,No commercial ,https://collections.ushmm.org/search/catalog/irn504692,Amalie Petranker Salsitz,1922,F,Germany,Stanislav ,null,1947,USA
+RG-50.030.0533,2009,80,A8827-A8834,Q8786-Q8792,No restrictions,https://collections.ushmm.org/search/catalog/irn38063,André Zalc,1931,M,Belgium,null,Rivesaltes,null,USA
+RG-50.030.0457,1999,166,A8835-A8982,Q8793-Q8941,No restrictions,https://collections.ushmm.org/search/catalog/irn506713,Anita Sockol,1927,F,Germany,null,null,1938,USA
+RG-50.030.0509,2006,220,A8983-A9333,Q8942-Q9293,No restrictions,https://collections.ushmm.org/search/catalog/irn518489,Ann Green,1925,F,Austria,null,"Auschwitz, Bergen-Belsen, Auschwitz II-Birkenau",1945,USA
+RG-50.030.0411,2001,351,A9334-A9819,Q9294-Q9790,No restrictions,https://collections.ushmm.org/search/catalog/irn508479,Anna Laks Wilson,1924,F,Poland,Starachowice,"Rechlin, Auschwitz, Ravensbrück",null,Canada 
+RG-50.030.0427,1996,466,A9820-A10026,Q9791-Q9996,No restrictions,https://collections.ushmm.org/search/catalog/irn504900,Anna Maxell Ware,1922,F,Poland ,Kraków,"Auschwitz, Bergen-Belsen, Auschwitz II-Birkenau",1946,USA
+RG-50.030.0258,1994,202,A10027-A10179,Q9997-Q10097,no commercial,https://collections.ushmm.org/search/catalog/irn504752,Anna Wajcblum Heilman,1928,F,Poland,Warsaw,"Majdanek, Auschwitz, Auschwitz II-Birkenau",null,Canada 
+RG-50.154.0007,1988,74,A10180-A10369,Q10098-Q10287,No restrictions,https://collections.ushmm.org/search/catalog/irn36771,Anya Brodman,1918,F,Poland,Vilnius,Kaiserwald ,1946,USA
+RG-50.462.0062,1981,219,A10370-A10526,Q10288-Q10443,No restrictions,https://collections.ushmm.org/search/catalog/irn508686,Ari Fuhrman,1924,M,Romania,"Chernivtsi, Mahiliou",Transnistria,1960,USA
+RG-50.030.0306,1995,169,A10527-A10659,Q10444-Q10551,No restrictions,https://collections.ushmm.org/search/catalog/irn504801,Arnold Einhorn,1923,M,Belgium,null,"Agde, Rivesaltes",null,USA
+RG-50.030.0299,1994,253,A10660-A10757,Q10552-Q10579,No restrictions,https://collections.ushmm.org/search/catalog/irn504794,Aron Derman,1922,M,Belarus,"Slonim, Grodno",ghetto,null,USA
+RG-50.030.0317,1995,153,A10758-A10792,Q10580-Q10614,no commercial,https://collections.ushmm.org/search/catalog/irn504812,Ava Dorfman,1920,F,Poland,Lviv,Janowska,null,USA
+RG-50.030.0033,1990,189,A10793-A10853,Q10615-Q10651,No commercial,https://collections.ushmm.org/search/catalog/irn504538,Avraham Bomba,1913,M,Poland,Częstochowa,Treblinka,1951,USA
+RG-50.030.0070,1990,90,A10854-A10898,Q10652-Q10678,No restrictions,https://collections.ushmm.org/search/catalog/irn504566,Barbara Marton Farkas,1920,F,Romania,Oradea,"Auschwitz, Gross-Rosen",1968,USA
+RG-50.549.02.0019,1998,246,A10899-A11300,Q10679-Q11083,No restrictions,https://collections.ushmm.org/search/catalog/irn506651,Barbara Rodbell,1925,F,Germany,null,"Auschwitz, Westerbork",null,USA
+RG-50.030.0753,2014,114,A11301-A11534,Q11084-Q11318,No restrictions,https://collections.ushmm.org/search/catalog/irn84371,David Halivni,1927,M,Czechoslovakia,Sighet,"Riese, Auschwitz, Gross-Rosen, Ebensee",1945,USA
+RG-50.030.0175,1990,97,A11535-A11551,Q11319-Q11337,No commercial ,https://collections.ushmm.org/search/catalog/irn504664,Beatrice Pappenheimer,1932,F,Germany,null,"Gurs, Rivesaltes",1947,USA
+RG-50.030.0029,1990,63,A11552-A11564,Q11338-Q11351,no commercial,https://collections.ushmm.org/search/catalog/irn504458,Bela Blau,1910,M,Czechoslovakia ,null,"Mauthausen, Gunskirchen, Auschwitz, Auschwitz II-Birkenau, Gusen",null,USA
+RG-50.030.0236,1990,110,A11565-A11582,Q11352-Q11370,no commercial ,https://collections.ushmm.org/search/catalog/irn504725,Bella Jakubowicz Tovey,1926,F,Poland,"Sosnowiec, Będzin","Gräben, Bergen-Belsen, Gross-Rosen",1946,USA
+RG-50.030.0340,1995,216,A11583-A11784,Q11371-Q11571,No restrictions,https://collections.ushmm.org/search/catalog/irn504834,Bella Mischkinsky,1922,F,Poland,"Ashmiany, Vilnius","Buchenwald, Riga-Kaiserwald, Magdeburg-Brabag, Stutthof",1945,USA
+RG-50.030.0176,1994,121,A11785-A11870,Q11572-Q11638,No restrictions,https://collections.ushmm.org/search/catalog/irn504676,Bella Simon Pasternak,1928,F,Hungary,null,"Stutthof, Auschwitz",null,USA
+RG-50.030.0152,1990,229,A11871-A11896,Q11639-Q11668,No restrictions,https://collections.ushmm.org/search/catalog/irn504646,Benjamin Meed,1922,M,Poland,Warsaw ,null,1946,USA
+RG-50.030.0093,1990,107,A11897-A11948,Q11669-Q11706,no commercial ,https://collections.ushmm.org/search/catalog/irn504587,Beno Helmer,1923,M,Czechoslovakia,Łódź,"Buchenwald, Ludwigslust, Gross-Rosen, Laskowitz-Meleschwitz",1947,USA
+RG-50.030.0481,2003,291,A11949-A12452,Q11707-Q12221,No restrictions,https://collections.ushmm.org/search/catalog/irn514469,Berendina Diet Eman,1920,F,Netherlands,null,Vught ,1950s,USA
+RG-50.462.0093,1982,372,A12453-A12884,Q12222-Q12643,No restrictions,https://collections.ushmm.org/search/catalog/irn508734,Bernard Mednicki,1910,M,Russia ,null,null,1947,USA
+RG-50.030.0177,1994,152,A12885-A12919,Q12644-Q12676,No restrictions,https://collections.ushmm.org/search/catalog/irn504675,Bernard Pasternak,1924,M,Romania,Vișeu de Sus,"Buchenwald, Auschwitz, Jawischowitz, Ohrdruf",1949,USA
+RG-50.030.0591,2010,93,A12920-A13609,Q12677-Q13163,No restrictions,https://collections.ushmm.org/search/catalog/irn42204,Blanche Hall,1913,F,Germany,null,null,1936,USA
+RG-50.549.02.0057,1999,172,A13610-A13753,Q13164-Q13312,No restrictions,https://collections.ushmm.org/search/catalog/irn506730,Blanka Rothschild,1922,F,Poland,null,camp,1946,USA
+RG-50.030.0040,1989,94,A13754-A13820,Q13313-Q13379,No restrictions,https://collections.ushmm.org/search/catalog/irn504542,Boleslaw Brodecki,1921,M,Poland,Pruzhany,"Auschwitz, Zgoda, Theresienstadt, Mauthausen",1949,USA
+RG-50.030.0329,1995,120,A13821-A13906,Q13380-Q13463,No restrictions,https://collections.ushmm.org/search/catalog/irn504823,Braunia Bella Sztul,1929,F,Poland,Warsaw,null,1950,USA
+RG-50.549.02.0011,1991,193,A13907-A14200,Q13464-Q13758,not mentioned ,https://collections.ushmm.org/search/catalog/irn506664,Brenda Senders,1925,F,Poland,Sarny,null,1951,USA
+RG-50.471.0003,1997,84,A14201-A14273,Q13759-Q13799,No restrictions,https://collections.ushmm.org/search/catalog/irn511020,Brigitte Altman,1924,F,Lithuania,Kaunas ,null,1946,USA
+RG-50.106.0140,2001,93,A14274-A14390,Q13800-Q13918,No restrictions,https://collections.ushmm.org/search/catalog/irn508463,Brigitte Freidin,1930,F,Germany,null,null,1939,USA
+RG-50.030.0126,1990,60,A14391-A14402,Q13919-Q13925,No commercial,https://collections.ushmm.org/search/catalog/irn504620,Carla Lessing,1929,F,Netherlands,null,null,1949,USA
+RG-50.322.0002,1984,116,A14403-A14563,Q13926-Q14087,No restrictions,https://collections.ushmm.org/search/catalog/irn510454,Carmen Appel,1907,F,Germany,null,null,1938,USA
+RG-50.030.0368,1996,165,A14564-A14785,Q14088-Q14306,No restrictions,https://collections.ushmm.org/search/catalog/irn504861,Carola Stern Steinhardt,1925,F,Germany,null,"Malchow, Auschwitz, Ravensbrück",1946,USA
+RG-50.030.0231,1990,78,A14786-A14847,Q14307-Q14364,no commerical ,https://collections.ushmm.org/search/catalog/irn504721,Carolina Knoch Taitz,1929,F,Latvia,Riga,null,1967,USA
+RG-50.549.02.0012,1998,258,A14848-A14948,Q14365-Q14467,No restrictions,https://collections.ushmm.org/search/catalog/irn506670,Cecilie Klein-Pollak,1925,F,Czechoslovakia , Huszt ,Auschwitz,1948,USA
+RG-50.471.0002,1997,61,A14949-A15018,Q14468-Q14542,No restrictions,https://collections.ushmm.org/search/catalog/irn511019,Celia Yewlow,1915,F,Lithuania,Kaunas,null,1949,USA
+RG-50.030.0066,1990,98,A15019-A15073,Q14543-Q14568,no commercial,https://collections.ushmm.org/search/catalog/irn504562,Chaim Engel,1916,M,Poland,null,Sobibór,1957,USA
+RG-50.549.02.0068,2003,238,A15074-A15382,Q14569-Q14879,No restrictions,https://collections.ushmm.org/search/catalog/irn512894,Charlene Perlmutter Schiff,1929,F,Poland,null,null,1948,USA
+RG-50.106.0036,1996,68,A15383-A15447,Q14880-Q14945,No restrictions,https://collections.ushmm.org/search/catalog/irn507534,Charles Barber,1932,M,Hungary,null,null,1956,USA
+RG-50.156.0022,1987,100,A15448-A15537,Q14946-Q15035,No restrictions,https://collections.ushmm.org/search/catalog/irn510676,Charlotte Hirsch,1921,F,Romania,null,Auschwitz ,null,USA
+RG-50.462.0030,1981,208,A15538-A15739,Q15036-Q15238,No restrictions,https://collections.ushmm.org/search/catalog/irn508650,Chayale Ash-Fuhrman,1920,F,Romania ,null,null,1959,USA
+RG-50.233.0012,1992,131,A15740-A15947,Q15239-Q15444,No restrictions,https://collections.ushmm.org/search/catalog/irn509088,Claude Brunswic,1921,M,Germany,null,POW,1946,USA
+RG-50.030.0137,1990,43,A15948-A15969,Q15445-Q15461,No commercial,https://collections.ushmm.org/search/catalog/irn504631,Cornelius Loen,1922,M,Serbia,null, forced labor camp,1949,USA
+RG-50.462.0106,1995,74,A15970-A16163,Q15462-Q15655,No restrictions,https://collections.ushmm.org/search/catalog/irn515625,Daniel Goldsmith,1931,M,Belgium ,null,null,1948,USA
+RG-50.030.0001,1994,179,A16164-A16286,Q15656-Q15778,No restrictions,https://collections.ushmm.org/search/catalog/irn504467,David A. Kochalski,1928,M,Poland,Warsaw,null,1947,USA
+RG-50.030.0020,1990,58,A16287-A16338,Q15779-Q15830,no commercial,https://collections.ushmm.org/search/catalog/irn504449,David Bergman,1931,M,Czechoslovakia ,Mátészalka,"Krakau-Plaszow, Auschwitz, Dachau, Gross-Rosen",1947,USA
+RG-50.106.0170,2007,178,A16339-A17003,Q15831-Q16496,No restrictions,https://collections.ushmm.org/search/catalog/irn518984,David Brombart,1933,M,Belgium,null,null,1964,USA
+RG-50.030.0347,1995,181,A17004-A17141,Q16497-Q16634,No restrictions,https://collections.ushmm.org/search/catalog/irn504841,David Davis,1914,M,Poland,null,"Buchenwald, Theresienstadt, Markstädt, Gross-Rosen, Laskowitz-Meleschwitz",null,USA
+RG-50.156.0011,1984,144,A17142-A17296,Q16635-Q16790,No restrictions,https://collections.ushmm.org/search/catalog/irn510665,David Eiger,1922,M,Poland,Random,Auschwitz ,1949,USA
+RG-50.156.0023,1984,60,A17297-A17405,Q16791-Q16902,No restrictions,https://collections.ushmm.org/search/catalog/irn510677,David Jagoda,1918,M,Poland,Miechow ,Plaschau,1951,USA
+RG-50.030.0104,1989,149,A17406-A17520,Q16903-Q16986,No restrictions,https://collections.ushmm.org/search/catalog/irn504598,David Klebanow,1907,M,Belarus,Kaunas,"Lauenburg, Riga-Spilwe, Stutthof",1951,USA
+RG-50.030.0345,1995,182,A17521-A17759,Q16987-Q17226,No restrictions,https://collections.ushmm.org/search/catalog/irn504839,David Klipp,1905,M,Lithuania ,Łódź,"Auschwitz, Neuengamme, Ahlem",1950,USA
+RG-50.030.0276,1993,94,A17760-A17800,Q17227-Q17267,No restrictions,https://collections.ushmm.org/search/catalog/irn504760,David Wasserman,1925,M,Romania ,null,Vught,1956,USA
+RG-50.030.0619,2011,108,A17801-A18415,Q17268-Q17882,No restrictions,https://collections.ushmm.org/search/catalog/irn43244,David Wisnia,1926,M,Poland,null,"Auschwitz, Dachau, Gleiwitz I",1946,USA
+RG-50.233.0142,1992,132,A18416-A18509,Q17883-Q17975,No restrictions,https://collections.ushmm.org/search/catalog/irn509224,David Yegher ,1920,M,Romania,Solotvyno,"Auschwitz, Gleiwitz II",1948,USA
+RG-50.462.0007,1984,274,A18510-A18914,Q17976-Q18381,No restrictions,https://collections.ushmm.org/search/catalog/irn508628,Dora Freilich,1926,F,Poland,Pruzhany," Malchow, Auschwitz, Auschwitz II-Birkenau, Ravensbrück",1949,USA
+RG-50.030.0372,1996,184,A18915-A19058,Q18382-Q18525,No restrictions,https://collections.ushmm.org/search/catalog/irn504865,Dora Kramen Dimitro,1922,F,Poland ,"Raduň, Grodno",null,1959,USA
+RG-50.462.0112,1994,60,A19059-A19309,Q18526-Q18778,No restrictions,https://collections.ushmm.org/search/catalog/irn515631,Dora Langsam,1925,F,Poland,Łódź,"Berlin-Neukölln, Auschwitz, Ravensbrück",1953,USA
+RG-50.156.0058,1984,339,A19310-A19420,Q18779-Q18888,No restrictions,https://collections.ushmm.org/search/catalog/irn510712,Dora Zaidenweber,1924,F,Poland,Radom,"Auschwitz, Bergen-Belsen",1950,USA
+RG-50.030.0086,1990,158,A19421-A19488,Q18889-Q18942,no commercial,https://collections.ushmm.org/search/catalog/irn504581,Doris Fuchs Greenberg,1930,F,Poland ,Warsaw,Ravensbrück,1955,USA
+RG-50.106.0132,2000,167,A19489-A19864,Q18943-Q19321,No restrictions,https://collections.ushmm.org/search/catalog/irn506644,Dorrit Liane Ostberg,1929,F,Austria ,null,Kampor-Rab,1944,USA
+RG-50.030.0252,1989,160,A19865-A19901,Q19322-Q19355,no commercial,https://collections.ushmm.org/search/catalog/irn504739,Eddie Willner,1926,M,Germany,null,"Lazy, Auschwitz, Drancy",1947,USA
+RG-50.030.0478,2003,344,A19902-A20812,Q19356-Q20279,No restrictions,https://collections.ushmm.org/search/catalog/irn514104,Edgar Krasa,1924,M,Czechoslovakia,Terezín ,"Auschwitz, Theresienstadt, Gleiwitz I",null,USA
+RG-50.030.0415,2001,150,A20813-A21005,Q20280-Q20473,No restrictions,https://collections.ushmm.org/search/catalog/irn509676,Edith Csengeri,1926,F,Hungary,null,Auschwitz,1956,USA
+RG-50.156.0016,1982,86,A21006-A21118,Q20474-Q20586,No restrictions,https://collections.ushmm.org/search/catalog/irn510670,Edith Goodman,1931,F,Romania,null,forced labor camp,1959,USA
+RG-50.462.0043,1981,250,A21119-A21555,Q20587-Q21023,No restrictions,https://collections.ushmm.org/search/catalog/irn508663,Edith Millman,1924,F,Poland,Warsaw,null,1947,USA
+RG-50.030.0358,1995,204,A21556-A21725,Q21024-Q21197,No restrictions,https://collections.ushmm.org/search/catalog/irn504851,Edna B. Ipson,1913,F,Lithuania,Kaunas,null,1945,USA
+RG-50.042.0003,1992,57,A21726-A21745,Q21198-Q21219,No restrictions,https://collections.ushmm.org/search/catalog/irn505557,Edward Adler,1910,M,Germany,null,Oranienburg,1938,USA
+RG-50.030.0451,1997,228,A21746-A21871,Q21220-Q21345,No restrictions,https://collections.ushmm.org/search/catalog/irn504937,Edward Anders,1926,M,Latvia,null,null,1949,USA
+RG-50.030.0580,2010,192,A21872-A22132,Q21346-Q21609,No restrictions,https://collections.ushmm.org/search/catalog/irn41724,Edward Klein,1926,M,Poland,Łódź,"Mauthausen, Auschwitz",1956,USA
+RG-50.030.0600,2010,102,A22133-A22311,Q21610-Q21789,No restrictions,https://collections.ushmm.org/search/catalog/irn42213,Eleanor Rolfe,1930,F,Germany,null,null,1939,USA
+RG-50.030.0163,1990,58,A22312-A22341,Q21790-Q21822,No commercial,https://collections.ushmm.org/search/catalog/irn504666,Elisabeth Model ,1897,F,Netherlands,null,null,1942,USA
+RG-50.549.02.0002,1997,128,A22342-A22506,Q21823-Q21984,No restrictions,https://collections.ushmm.org/search/catalog/irn506736,Elizabeth Koenig,1924,F,Austria,null,null,1942,USA
+RG-50.462.0023,1993,145,A22507-A22615,Q21985-Q22093,No restrictions,https://collections.ushmm.org/search/catalog/irn508644,Ellen Tarlow,1927,F,Germany,null,null,1941,USA
+RG-50.233.0095,1922,93,A22616-A22841,Q22094-Q22316,No restrictions,https://collections.ushmm.org/search/catalog/irn509178,Emanuel Munzer,1920,M,Germany,null," Oranienburg-Heinkelwerke, Buchenwald, Auschwitz, Sachsenhausen, Drancy",1947,USA
+RG-50.549.05.0008,2000,346,A22842-A23016,Q22317-Q22487,No restrictions,https://collections.ushmm.org/search/catalog/irn508257,Emilie Szekely,1920,F,Hungary ,null,"Auschwitz, Bergen-Belsen",1958,USA
+RG-50.030.0344,1995,94,A23017-A23300,Q22488-Q22774,No restrictions,https://collections.ushmm.org/search/catalog/irn504838,Emily Schleissner,1914,F,Czechoslovakia,null,Theresienstadt,1957,USA
+RG-50.322.0013,1981,121,A23301-A23384,Q22775-Q22856,No restrictions,https://collections.ushmm.org/search/catalog/irn510467,Emma Fiszlewicz,1923,F,Belarus,null,null,1964,USA
+RG-50.030.0669,2012,96,A23385-A23705,Q22857-Q23179,No restrictions,https://collections.ushmm.org/search/catalog/irn47822,Eric Heinz Bondy,1924,M,Germany,null,null,1938,USA
+RG-50.030.0593,2010,47,A23706-A23818,Q23180-Q23293,No restrictions,https://collections.ushmm.org/search/catalog/irn42206,Erica Kanter,1929,F,Germany,null,null,1939,USA
+RG-50.462.0024,1981,126,A23819-A24040,Q23294-Q23519,No restrictions,https://collections.ushmm.org/search/catalog/irn508645,Erica van Adelsberg,1928,F,Germany,null,"Bergen-Belsen, Westerbork",1946,USA
+RG-50.030.0309,1995,59,A24041-A24142,Q23520-Q23633,No restrictions,https://collections.ushmm.org/search/catalog/irn504804,Erika Reiss Kinel,1926,F,Croatia,null,null,1949,USA
+RG-50.030.0444,1997,181,A24143-A24623,Q23634-Q24116,No restrictions,https://collections.ushmm.org/search/catalog/irn506742,Erna Karplus,1907,F,Austria,null,null,1938,USA
+RG-50.030.0504,2006,218,A24624-A25581,Q24117-Q25079,No restrictions,https://collections.ushmm.org/search/catalog/irn518063,Ernest Culman,1929,F,Germany,Shanghai,null,1947,USA
+RG-50.322.0017,1981,117,A25582-A25861,Q25080-Q25358,No restrictions,https://collections.ushmm.org/search/catalog/irn510471,Ernest Heilbronner,1906,M,Germany,null,null,null,USA
+RG-50.030.0112,1991,149,A25862-A25914,Q25359-Q25401,no commercial,https://collections.ushmm.org/search/catalog/irn504606,Ernest Koenig,1917,M,Austria,null,"Königshütte, Bismarckhütte, Laurahütte, Blechhammer",1948,USA
+RG-50.106.0007,1994,45,A25915-A26124,Q25402-Q25611,No restrictions,https://collections.ushmm.org/search/catalog/irn504429,Ernest Kolben,1926,M,Austria,null,"München-Allach, Auschwitz, Kaufering, Theresienstadt, Buchenwald",1951,USA
+RG-50.030.0419,2001,231,A26125-A27111,Q25612-Q26601,No restrictions,https://collections.ushmm.org/search/catalog/irn509709,Ernest Loewenstein,1926,M,Germany,null,null,1940,USA
+RG-50.106.0019,1995,89,A27112-A27299,Q26602-Q26790,No restrictions,https://collections.ushmm.org/search/catalog/irn504441,Ernie Marx,1925,M,Germany,null,"Gurs, Dachau",1947,USA
+RG-50.030.0582,2010,59,A27300-A27439,Q26791-Q26913,No restrictions,https://collections.ushmm.org/search/catalog/irn41726,Ernie Pollak,1926,M,Hungary,Budapest,"Mauthausen, Gunskirchen,  Bergen-Belsen",1949,USA
+RG-50.462.0046,1985,120,A27440-A27516,Q26914-Q26990,No restrictions,https://collections.ushmm.org/search/catalog/irn508666,Ernst L. Presseisen,1928,M,Netherlands,null,"Bergen-Belsen, Westerbork",1946,USA
+RG-50.030.0248,1989,97,A27517-A27582,Q26991-Q27048,No restrictions,https://collections.ushmm.org/search/catalog/irn504732,Ernst Weihs,1908,M,Austria ,null,"Kaufering, Auschwitz, Dachau, Theresienstadt",null,USA
+RG-50.549.01.0007,1995,146,A27583-A27759,Q27049-Q27227,No restrictions,https://collections.ushmm.org/search/catalog/irn504895,Erwin (Froim) Baum,1926,F,Poland,Warsaw,Auschwitz,1966,USA
+RG-50.030.0346,1995,155,A27760-A27909,Q27228-Q27374,No restrictions,https://collections.ushmm.org/search/catalog/irn504840,Estelle Klipp,1922,F,Poland,Łódź," Auschwitz, Bergen-Belsen, Hamburg-Sasel, Neuengamme",1950,USA
+RG-50.030.0184,1990,120,A27910-A27943,Q27375-Q27409,no commercial,https://collections.ushmm.org/search/catalog/irn504680,Esther Terner Raab,1922,F,Poland,Chelm ,Sobibór,1950,USA
+RG-50.154.0014,1986,77,A27944-A28056,Q27410-Q27523,No restrictions,https://collections.ushmm.org/search/catalog/irn510748,Eugene Kellner,1917,M,Czechoslovakia ,null,Theresienstadt,1968,USA
+RG-50.030.0585,2010,90,A28057-A28234,Q27524-Q27697,No restrictions,https://collections.ushmm.org/search/catalog/irn42017,Eugene Miller,1923,M,Lithuania ,Łódź ,Auschwitz,1949,USA
+RG-50.154.0002,1986,68,A28235-A28332,Q27698-Q27797,No restrictions,https://collections.ushmm.org/search/catalog/irn510723,Eva Anderman,1911,F,Poland,Krakow,"Płaszów, Auschwitz",1946,USA
+RG-50.462.0004,1980,110,A28333-A28515,Q27798-Q27980,No restrictions,https://collections.ushmm.org/search/catalog/irn508625,Eva Burns,1924,F,Czechoslovakia ,null,"Auschwitz, Theresienstadt, Christianstadt",1948,USA
+RG-50.549.02.0047,1999,140,A28516-A28733,Q27981-Q28201,not mentioned ,https://collections.ushmm.org/search/catalog/irn506712,Eva Cooper,1934,F,Hungary,null,null,1947,USA
+RG-50.549.01.0013,1996,162,A28734-A28864,Q28202-Q28333,No restrictions,https://collections.ushmm.org/search/catalog/irn504920,Eva Edmands,1929,F,Austria,null,null,1948,USA
+RG-50.462.0055,1984,136,A28865-A29162,Q28334-Q28631,No restrictions,https://collections.ushmm.org/search/catalog/irn508679,Eva Frederich Cutler,1925,F,Hungary,Kaunas,"Buchenwald, Landsberg, Auschwitz, Auschwitz II-Birkenau, Stutthof, Dachau",1946,USA
+RG-50.106.0138,2001,289,A29163-A29585,Q28632-Q29056,No restrictions,https://collections.ushmm.org/search/catalog/irn508461,Eva Kristine Belfoure,1924,F,Poland,null,Nordhausen,1950,USA
+RG-50.233.0101,1992,53,A29586-A29698,Q29057-Q29170,No restrictions,https://collections.ushmm.org/search/catalog/irn509183,Eva Peker,1921,F,Romania ,Soroca,null,1980,USA
+RG-50.233.0115,1992,93,A29699-A29745,Q29171-Q29221,No restrictions,https://collections.ushmm.org/search/catalog/irn509197,Eva Roth,1916,F,Poland,Warsaw ,"Ravensbrück, Bergen-Belsen",1949,USA
+RG-50.030.0603,2010,63,A29746-A29857,Q29222-Q29333,No restrictions,https://collections.ushmm.org/search/catalog/irn42216,Eva Yachnes,1932,F,Austria,null,null,1938,USA
+RG-50.233.0143,1992,67,A29858-A29961,Q29334-Q29439,No restrictions,https://collections.ushmm.org/search/catalog/irn509225,Eva Young,1926,F,Poland,Lipsko," forced labor camp, Majdanek, Leipzig",1959,USA
+RG-50.030.0188,1990,60,A29962-A29980,Q29440-Q29454,no commercial,https://collections.ushmm.org/search/catalog/irn504684,Eve Wagszul Rich,1924,F,Ukraine,Kovel,Majdanek,null,USA
+RG-50.030.0498,2005,206,A29981-A30912,Q29455-Q30390,No restrictions,https://collections.ushmm.org/search/catalog/irn517612,Evelyn Arzt Bergl,1931,F,Austria,null,Ferramonti,1947,USA
+RG-50.030.0750,2014,164,A30913-A31543,Q30391-Q31017,No restrictions,https://collections.ushmm.org/search/catalog/irn82915,Ezra Sherman,1931,M,Poland ,Mlynove,Auschwitz,1974,USA
+RG-50.030.0196,1991,119,A31544-A31596,Q31018-Q31070,No commercial,https://collections.ushmm.org/search/catalog/irn504691,Fani Birnberg Ross,1922,F,Poland,Gwozdziec ,null,1950,USA
+RG-50.030.0621,2011,217,A31597-A32224,Q31071-Q31715,No restrictions,https://collections.ushmm.org/search/catalog/irn43278,Fanny Aizenberg,1916,F,Poland,null,"Auschwitz, Ravensbrück",1949,USA
+RG-50.030.0543,2010,99,A32225-A32319,Q31716-Q31813,No restrictions,https://collections.ushmm.org/search/catalog/irn39792,Feiga Hollenberg Connors,1933,F,Poland ,Borschiv,null,1947,USA
+RG-50.030.0303,1995,136,A32320-A32441,Q31814-Q31930,No restrictions,https://collections.ushmm.org/search/catalog/irn504798,Fela Warschau,1926,F,Poland,"Ozorków, Łódź"," Auschwitz, Bergen-Belsen, Hamburg-Sasel, Neuengamme",1951,USA
+RG-50.156.0006,1983,68,A32442-A32549,Q31931-Q32038,No restrictions,https://collections.ushmm.org/search/catalog/irn510657,Felicia Broh,1904,F,Germany,Shanghai,null,1947,USA
+RG-50.043.0010,1982,108,A32550-A32574,Q32039-Q32048,No restrictions,https://collections.ushmm.org/search/catalog/irn512461,Felicia Weingarten,1926,F,Poland ,Łódź," Auschwitz, Bergen-Belsen, Auschwitz II-Birkenau",1948,USA
+RG-50.030.0294,1994,180,A32575-A32682,Q32049-Q32058,No restrictions,https://collections.ushmm.org/search/catalog/irn504790,Felix Horn,1920,M,Poland ,Warsaw,Majdanek,1950,USA
+RG-50.106.0169,2007,116,A32683-A33120,Q32059-Q32498,No restrictions,https://collections.ushmm.org/search/catalog/irn518905,Felix Nicinski,1925,M,Poland,"Kalisz, Łódź","Buchenwald, Skarzysko-Kamienna, Bergen-Belsen, Mittelbau-Dora",1958,Australia
+RG-50.030.0290,1994,113,A33121-A33218,Q32499-Q32594,No restrictions,https://collections.ushmm.org/search/catalog/irn504786,Fletcher Aronson,1924,F,Lithuania,Kaunas,Stutthof,1947,USA
+RG-50.549.01.0022,1996,155,A33219-A33270,Q32595-Q32646,No restrictions,https://collections.ushmm.org/search/catalog/irn504926,Florence Gitelman Eisen,1928,F,Poland ,Lakhva,null,1949,USA
+RG-50.030.0348,1995,191,A33271-A33575,Q32647-Q32842,No restrictions,https://collections.ushmm.org/search/catalog/irn504842,Frances Davis,1918,F,Poland,Łódź,"Auschwitz, Theresienstadt, Flossenbürg",1947,USA
+RG-50.030.0006,1990,51,A33576-A33606,Q32843-Q32863,no commercial ,https://collections.ushmm.org/search/catalog/irn504524,Francis Akos,1922,M,Hungary,null,Neuengamme,1954,USA
+RG-50.030.0012,1990,120,A33607-A33611,Q32864-Q32869,no commrrcial,https://collections.ushmm.org/search/catalog/irn504447,Fred Bachner,1925,M,Germany,null,"Markstädt, Auschwitz, Dachau, Gross-Rosen, Faulbrück",1947,USA
+RG-50.156.0005,1984,94,A33612-A33707,Q32870-Q32965,No restrictions,https://collections.ushmm.org/search/catalog/irn510656,Fred Baron,1923,M,Austria,null,"Riese, Auschwitz, Bergen-Belsen, Gross-Rosen, Pölitz",1947,USA
+RG-50.030.0587,2010,100,A33708-A34112,Q32966-Q33370,No restrictions,https://collections.ushmm.org/search/catalog/irn42019,Fred Firnbacher,1930,M,Germany,null,null,1939,USA
+RG-50.106.0146,2001,137,A34113-A34463,Q33371-Q33724,No restrictions,https://collections.ushmm.org/search/catalog/irn509674,Fred Goldman,1915,M,Germany,null,null,1939,USA
+RG-50.030.0652,2011,263,A34464-A35110,Q33725-Q34372,No restrictions,https://collections.ushmm.org/search/catalog/irn45099,Fred Lorber,1923,M,Austria,null,null,1939,USA
+RG-50.030.0255,1989,59,A35111-A35129,Q34373-Q34391,No restrictions,https://collections.ushmm.org/search/catalog/irn504750,Fred R. Wohl,1914,M,Germany,null,null,1946,USA
+RG-50.233.0105,1992,89,A35130-A35338,Q34392-Q34600,No restrictions,https://collections.ushmm.org/search/catalog/irn509187,Fred Raymes,1929,M,Germany,null,null,1946,USA
+RG-50.106.0143,2001,234,A35339-A35677,Q34601-Q34940,No restrictions,https://collections.ushmm.org/search/catalog/irn508466,Fred Taucher,1933,M,Germanz,null,Dachau,1946,USA
+RG-50.156.0057,1982,169,A35678-A35760,Q34941-Q35023,No restrictions,https://collections.ushmm.org/search/catalog/irn510711,Fred Wildauer,1914,M,Lativia,null,null,1946,USA
+RG-50.030.0021,1990,134,A35761-A35780,Q35024-Q35041,No commercial,https://collections.ushmm.org/search/catalog/irn504453,Frederic Bernard,1912,M,Romania,"Chortkiv, Oleyëvo-Korolëvka",null,1950,USA
+RG-50.030.0242,1990,119,A35781-A35813,Q35042-Q35076,no commercial ,https://collections.ushmm.org/search/catalog/irn504736,Frida Adler Wallenstein,1926,F,Czechoslovakia ,null,null,1946,USA
+RG-50.030.0590,2010,140,A35814-A36521,Q35077-Q35785,No restrictions,https://collections.ushmm.org/search/catalog/irn42203,Frida Ruderman,1925,F,Lithuania,null,null,null,USA
+RG-50.030.0019,1994,452,A36522-A36707,Q35786-Q35967,No restrictions,https://collections.ushmm.org/search/catalog/irn504443,Frieda Belinfante,1904,F,Netherlands,null,null,1947,USA
+RG-50.030.0172,1990,61,A36708-A36788,Q35968-Q36049,No commercial ,https://collections.ushmm.org/search/catalog/irn504661,Frieda Greinegger Noga,1920,F,Austria,null,Ravensbrück,1945,USA
+RG-50.154.0027,1986,65,A36789-A37015,Q36050-Q36276,No restrictions,https://collections.ushmm.org/search/catalog/irn510734,Friedel Treitel,1922,F,Germany,null,Theresienstadt,null,USA
+RG-50.029.0020,1992,88,A37016-A37036,Q36277-Q36297,No commercial,https://collections.ushmm.org/search/catalog/irn511629,Fritz Gluckstein,1927,M,Germany,null,null,1948,USA
+RG-50.030.0325,1995,161,A37037-A37105,Q36298-Q36364,No restrictions,https://collections.ushmm.org/search/catalog/irn504819,Fritz Schnaittacher,1913,M,Germany,null,Dachau,1945,USA
+RG-50.549.02.0020,1998,143,A37106-A37221,Q36365-Q36481,No restrictions,https://collections.ushmm.org/search/catalog/irn506747,Fritzie Fritzshall,1929,F,Czechoslovakia ,null,Auschwitz,1946,USA
+RG-50.462.0056,1985,109,A37222-A37478,Q36482-Q36738,No restrictions,https://collections.ushmm.org/search/catalog/irn508680,Gabriel Drimer,1922,M,Czechoslovakia,null,labor camp,1955,USA
+RG-50.462.0050,1990,128,A37479-A37699,Q36739-Q36958,No restrictions,https://collections.ushmm.org/search/catalog/irn508670,Gabriela Truly,1916,F,Czechoslovakia ,null,"Malchow, Auschwitz, Auschwitz II-Birkenau, Ravensbrück",1948,USA
+RG-50.030.0460,2000,195,A37700-A37865,Q36959-Q37126,No restrictions,https://collections.ushmm.org/search/catalog/irn506744,Gabriele D. Schiff,1914,F,Germany,null,null,1950,USA
+RG-50.462.0015,1981,118,A37866-A37975,Q37127-Q37238,No restrictions,https://collections.ushmm.org/search/catalog/irn508636,Genia Klapholz,1912,F,Poland ," Nowy Wisnicz, Bochnia","Auschwitz, Auschwitz II-Birkenau, Szebnie",1948,USA
+RG-50.233.0010,1992,74,A37976-A38171,Q37239-Q37432,No restrictions,https://collections.ushmm.org/search/catalog/irn509086,George Brieger,1925,F,Hungary ,Nyíregyháza,"Auschwitz, Bergen-Belsen",1977,USA
+RG-50.030.0378,1996,262,A38172-A38261,Q37433-Q37522,No restrictions,https://collections.ushmm.org/search/catalog/irn504871,George Havas,1929,M,Czechoslovakia ,null,"Auschwitz, Ebensee, Mauthausen",1947,USA
+RG-50.030.0459,2000,180,A38262-A38471,Q37523-Q37735,No restrictions,https://collections.ushmm.org/search/catalog/irn510351,George Kadar,1929,M,Hungary,null,"Mittelbau-Dora, Auschwitz, Bergen-Belsen, Gleiwitz I",null,USA
+RG-50.030.0200,1990,111,A38472-A38489,Q37736-Q37754,no commercial ,https://collections.ushmm.org/search/catalog/irn504694,George Salton,1928,M,Poland,Byczyna ,"Colmar, Sachsenhausen, Wieliczka, Flossenbürg, Braunschweig",1947,USA
+RG-50.030.0493,2005,339,A38490-A39023,Q37755-Q38294,No restrictions,https://collections.ushmm.org/search/catalog/irn516732,George Schwab,1931,M,Poland,Liepāja,"Stutthof, Riga-Kaiserwald",null,USA
+RG-50.150.0040,1978,201,A39024-A39183,Q38295-Q38444,No restrictions,https://collections.ushmm.org/search/catalog/irn510643,George Tobias,1923,M,Germany,null,null,1949,USA
+RG-50.462.0027,1985,108,A39184-A39266,Q38445-Q38527,No restrictions,https://collections.ushmm.org/search/catalog/irn508647,Gerald Adler,1925,M,Germany,null,Theresienstadt,1946,USA
+RG-50.233.0048,1992,69,A39267-A39384,Q38528-Q38643,No restrictions,https://collections.ushmm.org/search/catalog/irn509130,Gerald Grossman,1923,M,Poland,null,null,1948,USA
+RG-50.106.0082,1997,218,A39385-A39689,Q38644-Q38950,No restrictions,https://collections.ushmm.org/search/catalog/irn507579,Gerald Schwab,1925,M,Germany,null,null,1940,USA
+RG-50.549.02.0025,1998,200,A39690-A39818,Q38951-Q39080,No restrictions,https://collections.ushmm.org/search/catalog/irn506701,Gerda Haas,1922,F,Germany,null,Theresienstadt,1946,USA
+RG-50.042.0001,1992,107,A39819-A39871,Q39081-Q39132,No restrictions,https://collections.ushmm.org/search/catalog/irn507376,Gerda Weissmann Klein,1924,F,Poland,Bielsko-Biała,"Bolkenhain, Landeshut, Gross-Rosen, Grünberg in Schlesien",1946,USA
+RG-50.150.0045,1978,89,A39872-A39985,Q39133-Q39246,No restrictions,https://collections.ushmm.org/search/catalog/irn510648,Gertrud Wittner,1921,F,Germany,null,null,1947,USA
+RG-50.030.0436,1996,166,A39986-A40223,Q39247-Q39486,No restrictions,https://collections.ushmm.org/search/catalog/irn504909,Gertrude Granirer Flor,1921,F,Ukraine,"Chernivtsi, Ladyzhyn",null,1945,USA
+RG-50.030.0259,1994,145,A40224-A40466,Q39487-Q39730,No restrictions,https://collections.ushmm.org/search/catalog/irn504753,Gina Schweitzer Beckerman,1920,F,Poland,Łódź,Auschwitz,null,USA
+RG-50.030.0476,2003,164,A40467-A40724,Q39731-Q39988,No Restrictions,https://collections.ushmm.org/search/catalog/irn513273,Gisela Zamora,1928,F,Germany,Terezín ,"Buchenwald, Auschwitz, Theresienstadt",1947,USA
+RG-50.150.0032,1993,111,A40725-A40907,Q39989-Q40171,No restrictions,https://collections.ushmm.org/search/catalog/irn510635,Gretel Rothschild,1922,F,Germany,null,null,1939,USA
+RG-50.106.0171,2001,90,A40908-A41246,Q40172-Q40512,No restrictions,https://collections.ushmm.org/search/catalog/irn519093,Gunter Haimann,1922,M,Germany,null,null,1937,USA
+RG-50.549.02.0060,1990,173,A41247-A41428,Q40513-Q40689,not mentioned ,https://collections.ushmm.org/search/catalog/irn506725,Guta Blass Weintraub,1924,F,Poland,null,"Auschwitz, Ravensbrück",null,USA
+RG-50.030.0223,1990,78,A41429-A41462,Q40690-Q40722,no commercial ,https://collections.ushmm.org/search/catalog/irn504714,Guy Stern,1922,M,Germany,null,Buchenwald,1937,USA
+RG-50.549.02.0075,2011,65,A41463-A41845,Q40723-Q41108,No restrictions,https://collections.ushmm.org/search/catalog/irn514871,Haim Solomon,1924,M,Romania,null,null,1952,USA
+RG-50.106.0152,2002,76,A41846-A41930,Q41109-Q41194,No restrictions,https://collections.ushmm.org/search/catalog/irn510555,Halina Peabody,1932,F,Poland ,null,null,1968,USA
+RG-50.030.0043,1990,116,A41931-A41954,Q41195-Q41215,No commercial ,https://collections.ushmm.org/search/catalog/irn506773,Hana Bruml,1922,F,Czechoslovakia ,null,"Auschwitz, Theresienstadt",1946,USA
+RG-50.462.0020,1982,172,A41955-A42713,Q41216-Q41973,No restrictions,https://collections.ushmm.org/search/catalog/irn508641,Hanna Seckel,1925,F,Czechoslovakia,null,null,1950,USA
+RG-50.030.0421,1995,124,A42714-A42795,Q41974-Q42056,No restrictions,https://collections.ushmm.org/search/catalog/irn504883,Hannah Biberstein,1928,F,Germany,null,null,1939,USA
+RG-50.106.0118,1999,127,A42796-A42979,Q42057-Q42243,No restrictions,https://collections.ushmm.org/search/catalog/irn506630,Hannah Kalman,1912,F,Poland,Łódź,"Auschwitz, Bergen-Belsen",1950,USA
+RG-50.165.0098,1989,55,A42980-A43066,Q42244-Q42327,No restrictions,https://collections.ushmm.org/search/catalog/irn511318,Hannah Rozen,1916,F,France,Łódź,Auschwitz,1946,USA
+RG-50.030.0601,2010,58,A43067-A43152,Q42328-Q42408,No restrictions,https://collections.ushmm.org/search/catalog/irn42214,Hanny Leitson,1925,F,Austria,null,null,1944,USA
+RG-50.322.0022,1978,286,A43153-A43470,Q42409-Q42723,No restrictions,https://collections.ushmm.org/search/catalog/irn510476,Hans Liebermann,1900,M,Poland,null,null,1938,USA
+RG-50.549.02.0062,2000,264,A43471-A43576,Q42724-Q42831,No restrictions,https://collections.ushmm.org/search/catalog/irn506717,Harold Zissman,1922,M,Poland,Dziarechyn,Forced labor camp,1948,USA
+RG-50.030.0007,1991,118,A43577-A43605,Q42832-Q42859,no commercial,https://collections.ushmm.org/search/catalog/irn504525,Harry Alexander,1921,M,Germany,null,Djelfa,1946,USA
+RG-50.030.0583,2010,134,A43606-A43991,Q42860-Q43248,No restrictions,https://collections.ushmm.org/search/catalog/irn41865,Harry Iticovici,1922,F,Romania ,null,null,1948,USA
+RG-50.233.0134,1992,70,A43992-A44024,Q43249-Q43278,No restrictions,https://collections.ushmm.org/search/catalog/irn509216,Harry Tabrys,1924,M,Poland,null,"Dav Mer, Dachau",1949,USA
+RG-50.233.0003,1992,76,A44025-A44094,Q43279-Q43346,No restrictions,https://collections.ushmm.org/search/catalog/irn509080,Helen Balsam,1927,F,Poland,Będzin,"Gunskirchen, Hirschberg",1948,USA
+RG-50.030.0083,2001,85,A44095-A44117,Q43347-Q43370,No commercial ,https://collections.ushmm.org/search/catalog/irn504578,Helen Goldkind,1928,F,Czechoslovakia ,Uzhhorod,"Auschwitz, Bergen-Belsen",1946,USA
+RG-50.030.0462,2000,368,A44118-A45411,Q43371-Q44677,No restrictions,https://collections.ushmm.org/search/catalog/irn508470,Helen Spitzer Tichauer,1918,F,Czechoslovakia,null,"Auschwitz, Auschwitz II-Birkenau",1967,USA
+RG-50.030.0246,1989,124,A45412-A45489,Q44678-Q44744,No restrictions,https://collections.ushmm.org/search/catalog/irn504730,Helen Waterford,1909,F,Germany,null," Auschwitz, Kratzau I, Auschwitz II-Birkenau, Westerbork",1947,USA
+RG-50.030.0015,1990,45,A45490-A45514,Q44745-Q44769,no commercial,https://collections.ushmm.org/search/catalog/irn504452,Helene Baraf,1927,F,Belgium ,null,null,1969,USA
+RG-50.030.0414,2001,155,A45515-A45816,Q44770-Q45070,No restrictions,https://collections.ushmm.org/search/catalog/irn508801,Helene Reeves,1912,F,Austria ,null,null,null,USA
+RG-50.462.0080,1982,192,A45817-A46066,Q45071-Q45320,No restrictions,https://collections.ushmm.org/search/catalog/irn508721,Helmut Frank,1912,M,Germany,null,Buchenwald,1939,USA
+RG-50.755.0009,2010,110,A46067-A46182,Q45321-Q45388,No restrictions,https://collections.ushmm.org/search/catalog/irn76764,Henny Wenkart,1928,F,Austria,null,null,1939,USA
+RG-50.462.0052,1981,168,A46183-A46576,Q45389-Q45781,No restrictions,https://collections.ushmm.org/search/catalog/irn508672,Henry Altschuler,1923,F,Poland,Lubartów,"Majdanek, Jaktorów, Janowska, Krakau-Plaszow",1949,USA
+RG-50.030.0341,1995,141,A46577-A46671,Q45782-Q45874,No restrictions,https://collections.ushmm.org/search/catalog/irn504835,Henry Bermanis,1925,M,Lativia,Riga,"Stutthof, Riga-Kaiserwald, Magdeburg-Brabag",1946,USA
+RG-50.233.0021,1992,46,A46672-A46713,Q45875-Q45916,No restrictions,https://collections.ushmm.org/search/catalog/irn509099,Henry Drobiarz,1919,M,Poland,null,"München-Allach, Wieliczka, Sandomierz, Augsburg-Messerschmitt, Kaufering, Krakau-Plaszow, Leonberg, Dachau, Flossenbürg, Mielec",1949,USA
+RG-50.156.0014,1985,110,A46714-A46939,Q45917-Q46142,No restrictions,https://collections.ushmm.org/search/catalog/irn510668,Henry Freier,1914,F,Poland,Łódź,"Auschwitz, Gross-Rosen, Ziegenlager",1949,USA
+RG-50.030.0528,2009,181,A46940-A47488,Q46143-Q46698,No restrictions,https://collections.ushmm.org/search/catalog/irn37541,Henry Gallant,1928,M,Germany,null,null,1947,USA
+RG-50.156.0021,1983,85,A47489-A47605,Q46699-Q46816,No restrictions,https://collections.ushmm.org/search/catalog/irn510675,Henry Harvey,1924,M,Germany,null,null,1946,USA
+RG-50.470.0011,1995,44,A47606-A47621,Q46817-Q46816,No restrictions,https://collections.ushmm.org/search/catalog/irn511056,Henry Kanner,1927,M,Poland,null,"Auschwitz, Mauthausen",1946,USA
+RG-50.156.0046,1983,146,A47622-A47670,Q46817-Q46865,No restrictions,https://collections.ushmm.org/search/catalog/irn510700,Henry Oertelt,1921,M,Germany,null,"Theresienstadt, Auschwitz/Birkenau, Flossenbürg",1949,USA
+RG-50.462.0102,1999,151,A47671-A48207,Q46866-Q47401,No restrictions,https://collections.ushmm.org/search/catalog/irn515621,Herbert Broh,1930,M,Germany ,Shanghai,null,1947,USA
+RG-50.462.0035,1987,169,A48208-A49134,Q47402-Q48332,No restrictions,https://collections.ushmm.org/search/catalog/irn508655,Herbert Finder,1929,M,Austria ,Warsaw,"München-Allach, Drancy, Sosnowiec, Auschwitz, Auschwitz II-Birkenau, Dachau",1946,USA
+RG-50.030.0595,2010,196,A49135-A49290,Q48333-Q48494,No restrictions,https://collections.ushmm.org/search/catalog/irn42208,Herbert Friedman,1924,M,Austria,null,null,1938,USA
+RG-50.165.0050,1989,130,A49291-A49329,Q48495-Q48529,No restrictions,https://collections.ushmm.org/search/catalog/irn511275,Herbert Kalter,1926,M,Germany,null,Auschwitz,1946,USA
+RG-50.030.0442,1996,101,A49330-A49460,Q48530-Q48661,No restrictions,https://collections.ushmm.org/search/catalog/irn504916,Herma Barber,1921,F,Austria,null,Kampor-Rab,1946,USA
+RG-50.469.0002,1997,92,A49461-A49563,Q48662-Q48765,No restrictions,https://collections.ushmm.org/search/catalog/irn513716,Herta Gelber,1920,F,Austria,Zweiten Bezirk,null,1938,USA
+RG-50.030.0230,1990,62,A49564-A49579,Q48766-Q48771,No restrictions,https://collections.ushmm.org/search/catalog/irn504720,Hessy Levinsons Taft,1934,F,Germany,null,null,1948,USA
+RG-50.030.0059,1990,61,A49580-A49590,Q48772-Q48784,no commercial ,https://collections.ushmm.org/search/catalog/irn506774,Hetty d'Ancona de Leeuwe,1930,F,Netherlands,null,null,null,USA
+RG-50.030.0721,2013,71,A49591-A49919,Q48785-Q49114,No restrictions,https://collections.ushmm.org/search/catalog/irn74540,Hilde Gundel,1926,F,Germany,null,null,1944,USA
+RG-50.629.0001,2010,40,A49920-A49966,Q49115-Q49161,No restrictions,https://collections.ushmm.org/search/catalog/irn40106,Hildegard Lee,1928,F,Germany,null,null,1952,USA
+RG-50.030.0265,1994,110,A49967-A50037,Q49162-Q49232,No restrictions,https://collections.ushmm.org/search/catalog/irn504746,Hiltgunt Zassenhaus,1916,F,Germany,null,null,1952,USA
+RG-50.031.0148,1986,90,A50038-A50067,Q49233-Q49261,No restrictions,https://collections.ushmm.org/search/catalog/irn560612,Herbert Prauer,1908,M,Germany,null,Sachsenhausen,1939,USA
+RG-50.030.0017,1994,207,A50068-A50296,Q49262-Q49476,No restrictions,https://collections.ushmm.org/search/catalog/irn504530,Icek Baum,1925,M,Poland ,"Płońsk, Warsaw","Auschwitz, Auschwitz II-Birkenau, Auschwitz III-Monowitz",null,Canada 
+RG-50.462.0097,1984,91,A50297-A50397,Q49477-Q49579,No restrictions,https://collections.ushmm.org/search/catalog/irn508738,Ida Rudley,1922,F,Austria,null,Ferramonti,1947,USA
+RG-50.150.0026,1993,144,A50398-A50530,Q49580-Q49713,No restrictions,https://collections.ushmm.org/search/catalog/irn510629,Ilse Marcus,1914,F,Poland,null,Auschwitz,null,USA
+RG-50.030.0273,1995,117,A50531-A50655,Q49714-Q49837,No restrictions,https://collections.ushmm.org/search/catalog/irn504757,Ilse Sauer,1923,F,Germany,null,"Stutthof, Riga-Kaiserwald",1946,USA
+RG-50.462.0014,1984,48,A50656-A50720,Q49838-Q49902,No restrictions,https://collections.ushmm.org/search/catalog/irn508635,Inge Karo,1926,F,Germany,null,null,1939,USA
+RG-50.030.0389,1998,195,A50721-A51049,Q49903-Q50238,No restrictions,https://collections.ushmm.org/search/catalog/irn506411,Inge Sachs Rosenthal,1923,F,Germany,null,null,1947,USA
+RG-50.030.0049,1990,86,A51050-A51086,Q50239-Q50255,no commercial ,https://collections.ushmm.org/search/catalog/irn504455,Ion Butnaru,1918,M,Romania,null,Tîrgu Jiu,1976,USA
+RG-50.030.0859,2015,125,A51087-A52012,Q50256-Q51184,No restrictions,https://collections.ushmm.org/search/catalog/irn531225,Irena Bach,1925,F,Poland,Lvov,null,1951,USA
+RG-50.150.0024,1993,134,A52013-A52318,Q51185-Q51492,No restrictions,https://collections.ushmm.org/search/catalog/irn510627,Irene Lewis,1920,F,Germany,null,Stutthof,null,USA
+RG-50.030.0366,1996,104,A52319-A52503,Q51493-Q51677,No restrictions,https://collections.ushmm.org/search/catalog/irn504859,Irene Salomonawicz Fleming,1921,F,Poland,Lodz,Ravensbrück,1949,USA
+RG-50.233.0125,1992,160,A52504-A52767,Q51678-Q51935,No restrictions,https://collections.ushmm.org/search/catalog/irn509207,Irene Shapiro,1925,F,Ukraine,Białystok,"Majdanek, Auschwitz, Blizyn, Auschwitz II-Birkenau, Treblinka",1946,USA
+RG-50.233.0004,1992,99,A52768-A52885,Q51936-Q52056,No restrictions,https://collections.ushmm.org/search/catalog/irn509081,Irving Balsam,1924,M,Poland,Praszka,"Lagischa, Auschwitz",1948,USA
+RG-50.233.0057,1992,119,A52886-A53038,Q52057-Q52204,No restrictions,https://collections.ushmm.org/search/catalog/irn509139,Irving Horn,1927,M,Poland,Radom,"Natzweiler-Struthof, Auschwitz, Kochendorf, Unterriexingen, Dachau, Wiesengrund",1948,USA
+RG-50.106.0122,1993,137,A53039-A53304,Q52205-Q52472,No restrictions,https://collections.ushmm.org/search/catalog/irn506634,Irving Schaffer,1928,F,Czechoslovakia ,Khust,"Mühldorf, Auschwitz, Dachau",1947,USA
+RG-50.549.02.0069,2003,228,A53305-A53476,Q52473-Q52645,No restrictions,https://collections.ushmm.org/search/catalog/irn513274,Isaac Nehama,1926,M,Greece,null,null,1946,USA
+RG-50.233.0070,1991,176,A53477-A53570,Q52646-Q52734,No restrictions,https://collections.ushmm.org/search/catalog/irn509153,Isabella Leitner,1921,F,Hungary,Kisvárda,"Auschwitz II-Birkenau, Birnbäumel",1945,USA
+RG-50.462.0012,1982,128,A53571-A53720,Q52735-Q52883,No restrictions,https://collections.ushmm.org/search/catalog/irn508633,Isadore Hollander,1920,M,France,Rivne,"Jaworzno, Majdanek",1947,USA
+RG-50.030.0357,1995,253,A53721-A53968,Q52884-Q53132,No restrictions,https://collections.ushmm.org/search/catalog/irn504850,Israel Ipson,1911,M,Lithuania,Kaunas,null,1947,USA
+RG-50.030.0435,1996,341,A53969-A54145,Q53133-Q53307,No restrictions,https://collections.ushmm.org/search/catalog/irn504908,Itka Zygmuntowicz,1926,F,Poland,null,"Malchow, Auschwitz, Ravensbrück, Auschwitz",1953,USA
+RG-50.030.0311,1995,226,A54146-A54281,Q53308-Q53404,No restrictions,https://collections.ushmm.org/search/catalog/irn504806,Jack Ahrens,1921,M,Belarus,Lviv,null,1948,USA
+RG-50.030.0424,1995,169,A54282-A54466,Q53405-Q53590,No restrictions,https://collections.ushmm.org/search/catalog/irn504889,Jack Baum,1918,M,Poland,Warsaw,"Buchenwald, Auschwitz, Auschwitz II-Birkenau, Majdanek",1949,USA
+RG-50.030.0684,2013,227,A54467-A55110,Q53591-Q54239,No restrictions,https://collections.ushmm.org/search/catalog/irn54249,Jack Mondschein,1923,M,Poland,Chrzanów,"Funfteichen, Mauthausen, Ebensee",1957,USA
+RG-50.045.0016,1986,119,A55111-A55122,Q54240-Q54249,No restrictions,https://collections.ushmm.org/search/catalog/irn506607,Jack Oran,1924,M,Poland,"Sierpc, Warsaw",Auschwitz,1949,USA
+RG-50.462.0075,1985,52,A55123-A55186,Q54250-Q54313,No restrictions,https://collections.ushmm.org/search/catalog/irn508700,Jack Zaifman,1925,M,Poland,Radom,"Blizyn, Wolanów",1949,USA
+RG-50.154.0008,1989,118,A55187-A55396,Q54314-Q54523,No restrictions,https://collections.ushmm.org/search/catalog/irn510728,Jacob Brodman,1920,M,Poland,null,"Auschwitz, Buchenwald, Ohrdruf",1946,USA
+RG-50.030.0752,2014,210,A55397-A56452,Q54524-Q55584,No restrictions,https://collections.ushmm.org/search/catalog/irn82740,Jacques Ribons,1927,M,Poland,null,Blechhammer,1947,USA
+RG-50.233.0104,1992,79,A56453-A56476,Q55585-Q55608,No restrictions,https://collections.ushmm.org/search/catalog/irn509186,Janina Prot,1926,F,Poland,null,null,1971,USA
+RG-50.562.0004,2004,321,A56477-A57391,Q55609-Q56530,No restrictions,https://collections.ushmm.org/search/catalog/irn514926,Janine Oberrotman,1925,F,Poland,null,null,1953,USA
+RG-50.030.0050,1990,33,A57392-A57415,Q56531-Q56555,No restrictions,https://collections.ushmm.org/search/catalog/irn504549,Jeanine Gutman Butnaru,1925,F,Romania,null,null,1976,USA
+RG-50.549.02.0027,1998,201,A57416-A57504,Q56556-Q56644,not mentioned ,https://collections.ushmm.org/search/catalog/irn506694,Jerry Slivka,1915,M,UKraine,null,null,1948,USA
+RG-50.030.0241,1990,97,A57505-A57534,Q56645-Q56674,no commercial,https://collections.ushmm.org/search/catalog/irn506767,Jerry von Halle,1922,M,Germany,null,Mauthausen,1945,USA
+RG-50.322.0024,1981,172,A57535-A57676,Q56675-Q56814,No restrictions,https://collections.ushmm.org/search/catalog/irn510478,Jerzy Lubelfeld,1907,M,Poland,null,null,1948,USA
+RG-50.106.0058,1996,56,A57677-A57740,Q56815-Q56878,No restrictions,https://collections.ushmm.org/search/catalog/irn507556,Joan Schwab,1926,F,Germany,null,null,1947,USA
+RG-50.030.0170,1990,176,A57741-A57760,Q56879-Q56886,No commercial ,https://collections.ushmm.org/search/catalog/irn504673,Johanna Neumann,1930,F,Germany,null,null,1971,USA
+RG-50.030.0133,1990,79,A57761-A57833,Q56887-Q56955,No commercial,https://collections.ushmm.org/search/catalog/irn504627,Johanne Eva Liebman,1924,F,Germany,null,Gurs ,1948,USA
+RG-50.233.0029,1993,55,A57834-A57906,Q56956-Q57024,No restrictions,https://collections.ushmm.org/search/catalog/irn509107,John Friedmann,1913,M,Czechoslovakia ,Shanghai,"Buchenwald, Dachau",1949,USA
+RG-50.030.0594,2010,97,A57907-A58043,Q57025-Q57155,No restrictions,https://collections.ushmm.org/search/catalog/irn42207,John H. Lang,1930,M,Germany,null,null,1940,USA
+RG-50.549.05.0007,1999,629,A58044-A58281,Q57156-Q57392,No restrictions,https://collections.ushmm.org/search/catalog/irn508258,John Rosenberg,1931,M,Germany,null,null,1940,USA
+RG-50.462.0122,1999,129,A58282-A58357,Q57393-Q57465,No restrictions,https://collections.ushmm.org/search/catalog/irn515647,Jon Sauber,1926,M,Hungary,null,Bergen-Belsen,1946,Csnada
+RG-50.549.02.0080,2004,242,A58358-A58762,Q57466-Q57872,No restrictions,https://collections.ushmm.org/search/catalog/irn515834,Joseph Elman,1922,M,Poland,null,null,1947,USA
+RG-50.106.0121,1993,116,A58763-A59017,Q57873-Q58061,No restrictions,https://collections.ushmm.org/search/catalog/irn506633,Joseph Koplewicz,1915,M,Poland,Warsaw,"Kaufering, Majdanek",1949,USA
+RG-50.030.0245,1990,84,A59018-A59044,Q58062-Q58089,No restrictions,https://collections.ushmm.org/search/catalog/irn504729,Joseph Wardzala,1923,F,Poland,null,null,1950,USA
+RG-50.549.02.0035,1999,181,A59045-A59325,Q58090-Q58373,not mentioned,https://collections.ushmm.org/search/catalog/irn506702,Judith Meisel,1929,F,Lithuania,Kaunas,Stutthof,1949,USA
+RG-50.462.0081,1985,62,A59326-A59555,Q58374-Q58602,No restrictions,https://collections.ushmm.org/search/catalog/irn508722,Judy Freeman,1929,F,Czechoslovakia ,null,"Guben, Auschwitz, Bergen-Belsen, Auschwitz II-Birkenau",1947,USA
+RG-50.156.0059,1982,239,A59556-A59699,Q58603-Q58747,No restrictions,https://collections.ushmm.org/search/catalog/irn510713,Jules Zaidenweber,1920,M,Poland,Radom,"Auschwitz, Vaihingen, Dachau",1950,USA
+RG-50.030.0473,2002,171,A59700-A60389,Q58748-Q59440,No restrictions,https://collections.ushmm.org/search/catalog/irn512782,Julian Bussgang,1925,M,Poland ,null,null,1949,USA
+RG-50.030.0171,1990,129,A60390-A60406,Q59441-Q59459,no commercial ,https://collections.ushmm.org/search/catalog/irn504660,Julian Noga,1921,M,Poland,null,Flossenbürg,1948,USA
+RG-50.549.05.0003,1999,201,A60407-A60673,Q59460-Q59728,No restrictions,https://collections.ushmm.org/search/catalog/irn508253,Justine Lerner,1923,F,Poland,null," Auschwitz, Ravensbruck",1946,USA
+RG-50.030.0023,1990,47,A60674-A60696,Q59729-Q59741,No restrictions,https://collections.ushmm.org/search/catalog/irn504450,Kate Bernath,1927,F,Hungary,Košice,"Auschwitz, Mühldorf, Krakau-Plaszow, Augsburg-Messerschmitt",1949,USA
+RG-50.462.0016,1981,315,A60697-A61108,Q59742-Q60152,No restrictions,https://collections.ushmm.org/search/catalog/irn508637,Kurt Kupferberg,1907,M,Germany,null,"Sachsenhausen, Dachau, Buchenwald",1947,USA
+RG-50.106.0079,1997,123,A61109-A61315,Q60153-Q60362,No restrictions,https://collections.ushmm.org/search/catalog/irn507576,Kurt Pauly,1930,M,Germany,null,null,1957,USA
+RG-50.106.0141,2001,367,A61316-A61496,Q60363-Q60541,No restrictions,https://collections.ushmm.org/search/catalog/irn508464,Kurt Roberg,1924,M,Germany,null,Oranienburg,1941,USA
+RG-50.150.0033,1977,123,A61497-A61566,Q60542-Q60611,No restrictions,https://collections.ushmm.org/search/catalog/irn510636,Kurt Schloss,1911,M,Germany,null,null,1939,USA
+RG-50.030.0233,1990,179,A61567-A61622,Q60612-Q60666,No restrictions,https://collections.ushmm.org/search/catalog/irn507303,Kurt Thomas,1914,M,Czechoslovakia ,Piaski,"Trawniki, Sobibór, Theresienstadt",1948,USA
+RG-50.106.0111,1998,90,A61623-A61681,Q60667-Q60725,No restrictions,https://collections.ushmm.org/search/catalog/irn506691,Lena Gitter,1905,F,Austria,null,null,1938,USA
+RG-50.106.0109,1998,186,A61682-A61970,Q60726-Q61016,No restrictions,https://collections.ushmm.org/search/catalog/irn506673,Lena Jurand,1917,F,Poland ,Przemyśl,null,1951,USA
+RG-50.030.0653,2012,132,A61971-A62262,Q61017-Q61307,No restrictions,https://collections.ushmm.org/search/catalog/irn45193,Leni Hoffman,1930,F,Germany,null,null,1946,USA
+RG-50.549.02.0016,1998,111,A62263-A62379,Q61308-Q61426,No restrictions,https://collections.ushmm.org/search/catalog/irn506646,Leo Bretholz,1921,M,France,null,"Rivesaltes, Drancy",1946,USA
+RG-50.030.0205,1990,62,A62380-A62398,Q61427-Q61446,no commercial ,https://collections.ushmm.org/search/catalog/irn504698,Leo Schneiderman,1921,M,Poland ,Łódź,"Riese, Auschwitz, Gross-Rosen, Lärche, Kaltwasser",null,USA
+RG-50.106.0135,2000,89,A62399-A62706,Q61447-Q61755,No restrictions,https://collections.ushmm.org/search/catalog/irn508316,Leonard Gordon,1925,M,Germany,Šiauliai,"Mühldorf, Dachau, Stutthof, Augsburg-Messerschmitt",1946,USA
+RG-50.030.0559,2008,124,A62707-A62969,Q61756-Q62021,No restrictions,https://collections.ushmm.org/search/catalog/irn41509,Leonard Vis,1930,M,Netherlands,null,null,1954,USA
+RG-50.549.01.0012,1996,154,A62970-A63060,Q62022-Q62114,No restrictions,https://collections.ushmm.org/search/catalog/irn504918,Leonard Zawacki,1916,M,Poland,null,"Auschwitz, Birkenau",1951,USA
+RG-50.549.02.0043,1989,291,A63061-A63271,Q62115-Q62329,No restrictions,https://collections.ushmm.org/search/catalog/irn506708,Liane Reif-Lehrer,1934,F,Austria,null,null,1941,USA
+RG-50.030.0405,2000,284,A63272-A63714,Q62330-Q62773,No restrictions,https://collections.ushmm.org/search/catalog/irn507294,Lidia Siciarz,1930,F,Poland,Warsaw,null,1969,USA
+RG-50.462.0065,1998,178,A63715-A63825,Q62774-Q62773,No restrictions,https://collections.ushmm.org/search/catalog/irn508689,Liesl Loeb,1928,F,Germany,null,null,1940,USA
+RG-50.030.0026,1992,116,A63826-A63958,Q62774-Q62907,no commercial ,https://collections.ushmm.org/search/catalog/irn504533,Lillian Bielsky-Bell,1923,F,Poland,Lida,null,1956,USA
+RG-50.233.0067,1992,192,A63959-A64152,Q62908-Q63100,No restrictions,https://collections.ushmm.org/search/catalog/irn509150,Lillian Lazar,1924,F,Poland ,Warsaw,"Majdanek, Skarzysko-Kamienna",1950,USA
+RG-50.462.0048,1989,88,A64153-A64213,Q63101-Q63163,No restrictions,https://collections.ushmm.org/search/catalog/irn508668,Lillian Steinig,1923,F,Poland ,null,null,1949,USA
+RG-50.462.0074,1986,43,A64214-A64305,Q63164-Q63256,No restrictions,https://collections.ushmm.org/search/catalog/irn508699,Lillian Wishnefsky,1929,F,Poland,Sosnowiec,"Auschwitz, Auschwitz II-Birkenau, Ravensbrück",1945,USA
+RG-50.042.0020,1992,83,A64306-A64329,Q63257-Q63284,No restrictions,https://collections.ushmm.org/search/catalog/irn505573,Lilly Appelbaum Malnik,1928,F,Belgium ,null,"Auschwitz, Bergen-Belsen, Auschwitz II-Birkenau",1947,USA
+RG-50.030.0150,1990,123,A64330-A64367,Q63285-Q63305,No commercial ,https://collections.ushmm.org/search/catalog/irn504644,Lilly Margules,1924,F,Lithuania,Vilnius,"Stutthof, Riga-Kaiserwald",1956,USA
+RG-50.030.0077,1991,92,A64368-A64474,Q63306-Q63407,No commercial,https://collections.ushmm.org/search/catalog/irn504573,Lilly Schwarz Gach,1912,F,Hungary,null,null,1947,USA
+RG-50.030.0510,2006,190,A64475-A64626,Q63408-Q63563,No restrictions,https://collections.ushmm.org/search/catalog/irn518526,Lillyan Rosenberg,1928,F,Germany,null,null,1946,USA
+RG-50.030.0264,1990,97,A64627-A64654,Q63564-Q63592,No commercial ,https://collections.ushmm.org/search/catalog/irn504745,Liny Pajgin Yollick,1924,F,Netherlands,null,null,1945,USA
+RG-50.030.0168,1989,52,A64655-A64727,Q63593-Q63667,No restrictions,https://collections.ushmm.org/search/catalog/irn504671,Lisa Dawidowicz Murik,1925,F,Poland ,Ostroh,null,1949,USA
+RG-50.030.0300,1994,186,A64728-A64789,Q63668-Q63674,No restrictions,https://collections.ushmm.org/search/catalog/irn504795,Lisa Nussbaum Derman,1926,F,Poland,"Slonim, Vilnius",null,1947,USA
+RG-50.030.0467,1996,337,A64790-A65088,Q63675-Q63976,No restrictions,https://collections.ushmm.org/search/catalog/irn511185,Robert Holcze,1929,M,Hungary,null,null,1956,USA
+RG-50.030.0166,1990,63,A65089-A65126,Q63977-Q64014,no commercial,https://collections.ushmm.org/search/catalog/irn504669,Lonia Mosak,1922,F,Poland,null,"Neustadt-Glewe, Auschwitz, Gross-Rosen, Ravensbrück",1946,USA
+RG-50.030.0605,2010,57,A65127-A65314,Q64015-Q64204,No restrictions,https://collections.ushmm.org/search/catalog/irn42218,Lore J. Schore,1924,F,Germany,null,null,1940,USA
+RG-50.030.0447,1996,156,A65315-A65611,Q64205-Q64375,No restrictions,https://collections.ushmm.org/search/catalog/irn504932,Lore Perl,1913,F,Austria,null,Ravensbrück,1946,USA
+RG-50.030.0522,2008,285,A65612-A66803,Q64376-Q65579,No restrictions,https://collections.ushmm.org/search/catalog/irn36882,Lore Segal,1928,F,Austria,null,null,1951,USA
+RG-50.462.0032,1981,223,A66804-A66957,Q65580-Q65727,No restrictions,https://collections.ushmm.org/search/catalog/irn508652,Lory Grunberger Cahn,1925,F,Germany,null,"Auschwitz, Mauthausen, Buchenwald, Kurzbach labor camp, Gross-Rosen, Bergen-Belsen​",1947,USA
+RG-50.030.0440,1995,48,A66958-A67040,Q65728-Q65811,No restrictions,https://collections.ushmm.org/search/catalog/irn504914,Lotte Hirsch,1918,F,Ukraine,Chernivtsi,null,1962,USA
+RG-50.462.0091,1981,153,A67041-A67368,Q65812-Q66139,No restrictions,https://collections.ushmm.org/search/catalog/irn508732,Luba Margulies,1915,F,Ukraine,Ternopil,null,1949,USA
+RG-50.030.0471,2002,183,A67369-A67729,Q66140-Q66503,No restrictions,https://collections.ushmm.org/search/catalog/irn512295,Lucie Sternberg Rosenberg,1921,F,Croatia,null,null,1941,USA
+RG-50.030.0417,2001,353,A67730-A68323,Q66504-Q67107,No restrictions,https://collections.ushmm.org/search/catalog/irn509707,Lucille Eichengreen,1925,F,Germany,Łódź,"Auschwitz, Bergen-Belsen",1946,USA
+RG-50.030.0293,1994,137,A68324-A68343,Q67108-Q67126,no commercial ,https://collections.ushmm.org/search/catalog/irn504789,Lucine Horn,1926,F,Poland,"Lublin, Warsaw",null,1950,USA
+RG-50.030.0060,1990,118,A68344-A68372,Q67127-Q67139,no commercial,https://collections.ushmm.org/search/catalog/irn504556,Madeline Deutsch,1930,F,Czechoslovakia ,Berehove,"Auschwitz, Peterswaldau, Gross-Rosen",1949,USA
+RG-50.030.0030,1990,238,A68373-A68420,Q67140-Q67191,No commercial ,https://collections.ushmm.org/search/catalog/irn504535,Magda Blau,1916,F,Czechoslovakia,null,Auschwitz,1965,USA
+RG-50.030.0351,1995,178,A68421-A68676,Q67192-Q67447,No restrictions,https://collections.ushmm.org/search/catalog/irn504844,Malvina Burstein,1913,F,Slovakia,null,null,1947,USA
+RG-50.030.0489,2004,272,A68677-A68828,Q67448-Q67601,No restrictions,https://collections.ushmm.org/search/catalog/irn516009,Manfred Gans,1922,M,Germany,null,null,1948,USA
+RG-50.030.0606,2010,42,A68829-A68859,Q67602-Q67632,No restrictions,https://collections.ushmm.org/search/catalog/irn42219,Manfred Lindenbaum,1932,M,Germany,null,null,1946,USA
+RG-50.462.0018,1982,102,A68860-A68993,Q67633-Q67766,No restrictions,https://collections.ushmm.org/search/catalog/irn508639,Manya Perel,1924,F,Poland,Radom,"Krakau-Plaszow, Auschwitz, Gundelsdorf, Rechlin, Majdanek, Ravensbrück",1958,USA
+RG-50.462.0002,1992,93,A68994-A69078,Q67767-Q67766,No restrictions,https://collections.ushmm.org/search/catalog/irn508623,Margaret Beer,1911,F,Hungary,Sighet,"Sömmerda, Auschwitz, Gelsenkirchen",1946,USA
+RG-50.322.0005,1978,118,A69079-A69331,Q67767-Q68020,No restrictions,https://collections.ushmm.org/search/catalog/irn510457,Margaret Ebert,1898,F,Germany ,null,null,1940,USA
+RG-50.030.0108,1990,55,A69332-A69367,Q68021-Q68056,No restrictions,https://collections.ushmm.org/search/catalog/irn504602,Margaret Jastrow Klug,1923,F,Poland,null,Auschwitz,1955,USA
+RG-50.429.0005,1996,105,A69368-A69470,Q68057-Q68161,No restrictions,https://collections.ushmm.org/search/catalog/irn504456,Margaret Lambert,1914,F,Germany,null,null,1939,USA
+RG-50.106.0147,2002,212,A69471-A69681,Q68162-Q68373,No restrictions,https://collections.ushmm.org/search/catalog/irn509675,Margitta Cooper,1929,F,Germany,null,Gurs,1941,USA
+RG-50.106.0002,1994,104,A69682-A69912,Q68374-Q68602,No restrictions,https://collections.ushmm.org/search/catalog/irn507525,Maria Devinki,1920,F,Germany,null,Skarzysko,1950,USA
+RG-50.030.0379,1996,284,A69913-A69980,Q68603-Q68670,No restrictions,https://collections.ushmm.org/search/catalog/irn504872,Maria Rosenbloom,1918,F,Poland,ghetto,null,1947,USA
+RG-50.462.0034,1994,186,A69981-A70417,Q68671-Q69107,No restrictions,https://collections.ushmm.org/search/catalog/irn508654,Marian Filar,1917,F,Poland,Warsaw,"Skarzysko-Kamienna, Buchenwald, Schlieben, Bautzen, Majdanek",1950,USA
+RG-50.030.0312,1995,109,A70418-A70630,Q69108-Q69305,No commercial ,https://collections.ushmm.org/search/catalog/irn504807,Marianne Robitschek Rosner,1910,F,Austria,Cracow,"Auschwitz, Brünnlitz, Krakau-Plaszow",1946,USA
+RG-50.030.0503,2005,197,A70631-A71132,Q69306-Q69804,No restrictions,https://collections.ushmm.org/search/catalog/irn517893,Marianne Windholm,1910,F,Austria,null,Auschwitz,1952,USA
+RG-50.106.0086,1997,78,A71133-A71214,Q69805-Q69888,No restrictions,https://collections.ushmm.org/search/catalog/irn507583,Marion Friedman,1922,F,Germany,null,null,1939,USA
+RG-50.030.0596,2010,71,A71215-A71373,Q69889-Q70046,No restrictions,https://collections.ushmm.org/search/catalog/irn42209,Marion Wolff,1930,F,Germany,null,null,1960,USA
+RG-50.030.0218,1989,117,A71374-A71410,Q70047-Q70083,No restrictions,https://collections.ushmm.org/search/catalog/irn504710,Martin Spett,1928,M,Poland,null,Bergen-Belsen,1947,USA
+RG-50.549.02.0053,1999,182,A71411-A71539,Q70084-Q70217,not mentioned,https://collections.ushmm.org/search/catalog/irn506728,Masha Supporzhnikov Loen,1930,F,Lithuania,null,Stutthof,1949,USA
+RG-50.030.0536,2009,146,A71540-A72213,Q70218-Q70895,No restrictions,https://collections.ushmm.org/search/catalog/irn38082,Maurice Friedberg,1929,M,Poland,null,null,1948,USA
+RG-50.030.0094,1990,111,A72214-A72244,Q70896-Q70926,No commercial,https://collections.ushmm.org/search/catalog/irn504588,Max Amichai Heppner,1933,M,Netherlands,null,null,1946,USA
+RG-50.156.0017,1984,90,A72245-A72322,Q70927-Q71004,No restrictions,https://collections.ushmm.org/search/catalog/irn510671,Max Goodman,1923,M,Romania, Moghilev Podolsk ,Transnistria,1958,USA
+RG-50.233.0073,1992,87,A72323-A72415,Q71005-Q71107,No restrictions,https://collections.ushmm.org/search/catalog/irn509156,Max Liebmann,1921,M,Germany,null,Gurs,1948,USA
+RG-50.028.0034,1991,72,A72416-A72532,Q71108-Q71224,No restrictions,https://collections.ushmm.org/search/catalog/irn508771,Max Liebster,1915,M,Germany,null,"Buchenwald, Nordhausen, Sachsenhausen, Auschwitz, Auschwitz III-Monowitz, Neuengamme",1947,USA
+RG-50.462.0095,1985,64,A72533-A72705,Q71225-Q71423,No restrictions,https://collections.ushmm.org/search/catalog/irn508736,Max Roisman,1913,M,Poland,"Suchowola, Warsaw","Gleiwitz I, Sachsenhausen, Auschwitz, Auschwitz III-Monowitz, Oranienburg-Heinkelwerke, Majdanek",1956,USA
+RG-50.030.0279,1993,47,A72706-A72751,Q71424-Q71469,No restrictions,https://collections.ushmm.org/search/catalog/irn504765,Max Schmidt,1909,M,Romania,Chernivtsi,null,1951,USA
+RG-50.233.0126,1992,127,A72752-A72785,Q71470-Q71504,No restrictions,https://collections.ushmm.org/search/catalog/irn509208,Flora Mendelowitz Singer,1930,F,Belgium,null,null,1946,USA
+RG-50.030.0022,1990,120,A72786-A72848,Q71505-Q71523,no commercial ,https://collections.ushmm.org/search/catalog/irn504465,Michael Bernath,1923,M,Hungary,"Košice, Gyöngyös",Schachendorf ,1949,USA
+RG-50.030.0061,1990,120,A72849-A72892,Q71524-Q71540,no commercial,https://collections.ushmm.org/search/catalog/irn504557,Michael Diamond,1919,M,Czechoslovakia ,null,"Buchenwald, Bergen-Belsen, Mauthausen, Sachsenhausen, Sered, Neuengamme",1956,USA
+RG-50.462.0078,1985,64,A72893-A73135,Q71541-Q71782,No restrictions,https://collections.ushmm.org/search/catalog/irn508719,Michael Finkelstein,1928,M,Poland,Radom,"Pionki, Auschwitz, Ebensee, Mauthausen",1949,USA
+RG-50.030.0403,1999,144,A73136-A73267,Q71783-Q71918,No restrictions,https://collections.ushmm.org/search/catalog/irn507296,Michael Naoum Matsas,1930,M,Greece,null,null,1956,USA
+RG-50.233.0121,1992,106,A73268-A73394,Q71919-Q72046,No restrictions,https://collections.ushmm.org/search/catalog/irn509203,Michael Scislowski,1922,M,Poland,null,"Auschwitz, Dachau, Flossenbürg, Auschwitz",1950,USA
+RG-50.549.02.0007,1997,231,A73395-A73651,Q72047-Q72306,No restrictions,https://collections.ushmm.org/search/catalog/irn506737,Michael Vogel,1923,M,Germany,null,"Nováky, Landsberg, Auschwitz, Sachsenhausen",1946,USA
+RG-50.030.0464,2002,234,A73652-A74038,Q72307-Q72700,No restrictions,https://collections.ushmm.org/search/catalog/irn510323,Michael Wertman,1928,M,Poland,Lwów,null,1950,Canada
+RG-50.030.0142,1992,118,A74039-A74180,Q72701-Q72835,No commercial,https://collections.ushmm.org/search/catalog/irn504636,Mieczyslaw Madejski,1923,M,Poland,Warsaw,null,1969,USA
+RG-50.030.0453,1997,256,A74181-A74470,Q72836-Q73125,No restrictions,https://collections.ushmm.org/search/catalog/irn506734,Mikulas Judikovic,1919,M,Czechoslovakia,null,Forced Labor Camp,1968,USA
+RG-50.462.0013,1986,110,A74471-A74538,Q73126-Q73191,No restrictions,https://collections.ushmm.org/search/catalog/irn508634,Mina Kalter,1921,F,Poland,Przeworsk,null,1948,USA
+RG-50.030.0180,1989,145,A74539-A74553,Q73192-Q73209,No restrictions,https://collections.ushmm.org/search/catalog/irn504677,Mina Perlberger,1918,F,poland,Rzeszów,Auschwitz,null,USA
+RG-50.030.0375,1996,264,A74554-A74735,Q73210-Q73393,No restrictions,https://collections.ushmm.org/search/catalog/irn504868,Miriam Kabacznik Shulman,1918,F,Poland ,null,null,1948,USA
+RG-50.150.0022,1993,87,A74736-A74943,Q73394-Q73598,No restrictions,https://collections.ushmm.org/search/catalog/irn510625,Miriam Knoepfler,1918,F,Germany,null,ghetto,1947,USA
+RG-50.233.0001,1992,93,A74944-A75013,Q73599-Q73666,No restrictions,https://collections.ushmm.org/search/catalog/irn509078,Miru Alcana,1915,F,Greece ,null,"Haidari, Buchenwald, Auschwitz, Theresienstadt",1950,USA
+RG-50.549.02.0061,1999,236,A75014-A75236,Q73667-Q73891,No restrictions,https://collections.ushmm.org/search/catalog/irn506714,Morris Kornberg,1918,M,Poland,null,"Tröglitz, Buchenwald, Auschwitz, Theresienstadt",1949,USA
+RG-50.030.0174,1990,104,A75237-A75270,Q73892-Q73907,no commercial,https://collections.ushmm.org/search/catalog/irn504663,Murray Pantirer,1925,M,Poland ,Kraków,"Krakau-Plaszow, Auschwitz, Gross-Rosen, Brünnlitz",1949,USA
+RG-50.322.0033,1980,204,A75271-A75907,Q73908-Q74549,No restrictions,https://collections.ushmm.org/search/catalog/irn510487,Murray Weisman,1930,M,Poland,Łódź,"Auschwitz, Buna (Monowitz), Dora, Buchenwald",1949,USA
+RG-50.462.0079,1985,78,A75908-A76019,Q74550-Q74661,No restrictions,https://collections.ushmm.org/search/catalog/irn508720,Nathan Form,1922,M,Poland,"Rabka, Kroscienko","Wüstegiersdorf, Krakau-Plaszow, Ebensee, Mauthausen",1951,USA
+RG-50.165.0058,1989,128,A76020-A76167,Q74662-Q74808,no commercial,https://collections.ushmm.org/search/catalog/irn511283,Nathan Krieger,1917,M,Poland ,null,"Auschwitz, Auschwitz III-Monowitz",1949,USA
+RG-50.233.0080,1992,149,A76168-A76464,Q74809-Q75104,No restrictions,https://collections.ushmm.org/search/catalog/irn509163,Nathan Magier,1925,M,poland,null,"Auschwitz, Birkenau",1951,USA
+RG-50.030.0080,1989,117,A76465-A76471,Q75105-Q75111,No commercial ,https://collections.ushmm.org/search/catalog/irn504575,Nesse Galperin Godin,1928,F,Lithuania,null,camp,1950,USA
+RG-50.030.0515,2007,153,A76472-A76833,Q75112-Q75478,No restrictions,https://collections.ushmm.org/search/catalog/irn518937,Nick Levi,1921,M,Greece,Thessalonike,Bergen-Belsen,1492,USA
+RG-50.030.0101,1990,94,A76834-A76875,Q75479-Q75514,No restrictions,https://collections.ushmm.org/search/catalog/irn504595,Nina Kaleska,1929,F,Germany,Grodno,Auschwitz,1950,USA
+RG-50.030.0544,2009,181,A76876-A77164,Q75515-Q75806,No restrictions,https://collections.ushmm.org/search/catalog/irn39795,Norbert Krasnosielski,1918,M,Ukraine,null,null,null,USA
+RG-50.042.0032,1992,133,A77165-A77200,Q75807-Q75846,No restrictions,https://collections.ushmm.org/search/catalog/irn505585,Norbert Wollheim,1913,M,Germany,null,"Auschwitz, Monowitz",1951,USA
+RG-50.030.0263,1989,139,A77201-A77236,Q75847-Q75882,No restrictions,https://collections.ushmm.org/search/catalog/irn504744,Norbert Yasharoff,1930,M,Bulgaria,null,null,1967,USA
+RG-50.030.0287,1994,78,A77237-A77331,Q75883-Q75977,No restrictions,https://collections.ushmm.org/search/catalog/irn504772,Norma Schneiderman,1912,F,Poland,null,Treblinka,1947,USA
+RG-50.549.02.0063,1996,176,A77332-A77493,Q75978-Q76139,No restrictions,https://collections.ushmm.org/search/catalog/irn508468,Norman Belfer,1922,M,Poland ,null,Krakau-Plaszow,1950,USA
+RG-50.030.0693,2013,209,A77494-A78037,Q76140-Q76685,No restrictions,https://collections.ushmm.org/search/catalog/irn58656,Norman Miller,1924,M,Germany,null,null,1939,England
+RG-50.030.0199,1990,238,A78038-A78132,Q76686-Q76726,no commercial,https://collections.ushmm.org/search/catalog/irn504693,Norman Salsitz,1920,M,Poland,Rzeszów,"Lipie, Pustków",1946,USA
+RG-50.154.0004,1986,81,A78133-A78389,Q76727-Q76979,No restrictions,https://collections.ushmm.org/search/catalog/irn510725,Oscar Baron,1903,M,Czechoslovakia,null,"Auschwitz, Lidalow, Dachau, Riderlo",1948,USA
+RG-50.549.05.0011,2000,284,A78390-A78522,Q76980-Q77112,No restrictions,https://collections.ushmm.org/search/catalog/irn508262,Oscar Haber,1910,M,Poland,Łódź,"Auschwitz, Lidalow, Dachau",1948,USA
+RG-50.030.0695,1922,115,A78523-A79076,Q77113-Q77664,No restrictions,https://collections.ushmm.org/search/catalog/irn59190,Paul Jonas,1922,M,Poland,null,null,1949,USA
+RG-50.030.0537,2009,73,A79077-A79340,Q77665-Q77928,No restrictions,https://collections.ushmm.org/search/catalog/irn39436,Paula Goldlust Blue,1928,F,Germany,null,null,1947,USA
+RG-50.030.0500,2005,149,A79341-A80354,Q77929-Q78954,No restrictions,https://collections.ushmm.org/search/catalog/irn517852,Paula S. Biren,1922,F,Poland,Łódź,Auschwitz,1951,USA
+RG-50.156.0012,1987,178,A80355-A80498,Q78955-Q79095,No restrictions,https://collections.ushmm.org/search/catalog/irn510666,Paulette Fink,1911,F,France,null,null,1946,USA
+RG-50.030.0700,2013,264,A80499-A81046,Q79096-Q79644,No restrictions,https://collections.ushmm.org/search/catalog/irn59196,Pawulska Rasiej,1926,F,Poland,null,Forced Labor Camp,1948,USA
+RG-50.462.0109,1981,149,A81047-A81212,Q79645-Q79810,No restrictions,https://collections.ushmm.org/search/catalog/irn515628,Pearl Herling,1924,F,Hungary ,null,null,1950,USA
+RG-50.030.0486,2004,156,A81213-A82041,Q79811-Q80662,No restrictions,https://collections.ushmm.org/search/catalog/irn515153, Rachelle Perahia Margosh,1924,F,Greece,null,"Haidari, Auschwitz, Bergen-Belsen",null,USA
+RG-50.233.0037,1992,158,A82042-A82061,Q80663-Q80681,No restrictions,https://collections.ushmm.org/search/catalog/irn509119,Philip Goldstein,1922,M,Poland,null,"Auschwitz, Auschwitz II-Birkenau, Gross-Rosen",1945,USA
+RG-50.030.0154,1990,89,A82062-A82188,Q80682-Q80804,No commercial ,https://collections.ushmm.org/search/catalog/irn504648,Pieter Adriaan Meerburg,1919,M,Netherlands ,null,null,1948,USA
+RG-50.030.0400,1999,252,A82189-A82428,Q80805-Q81046,No restrictions,https://collections.ushmm.org/search/catalog/irn507289,Rachel Bielicka Gurdus,1922,F,Lithuania,Vilnius,Stutthof,1976,USA
+RG-50.322.0014,1978,533,A82429-A82918,Q81047-Q81538,No restrictions,https://collections.ushmm.org/search/catalog/irn510468,Rachel Frydman,1927,F,Poland,null,null,1958,USA
+RG-50.462.0086,1985,109,A82919-A83017,Q81539-Q81633,No restrictions,https://collections.ushmm.org/search/catalog/irn508727,Rachel Hochhauser,1928,F,Poland,null,null,1951,USA
+RG-50.030.0082,1991,121,A83018-A83209,Q81634-Q81824,No commercial ,https://collections.ushmm.org/search/catalog/irn504577,Rachel Mutterperl Goldfarb,1930,F,Poland,Dokshytsy,null,1947,USA
+RG-50.002.0015,1982,114,A83210-A83290,Q81825-Q81905,No restrictions,https://collections.ushmm.org/search/catalog/irn504520,Rae Kushner,1923,F,Poland ,Navahrudak,ghetto,1949,USA
+RG-50.030.0055,1990,112,A83291-A83311,Q81906-Q81930,no commercial,https://collections.ushmm.org/search/catalog/irn504553,Ralph Codikow,1930,M,Lithuania ,Kaunas,"Buchenwald, Landsberg, Auschwitz, Auschwitz II-Birkenau, Stutthof, Dachau",1948,USA
+RG-50.462.0084,1992,125,A83312-A83514,Q81931-Q82132,No restrictions,https://collections.ushmm.org/search/catalog/irn508725,Raoul Harmelin,1924,M,Poland,null,"Belzec, Janowska, Boryslaw",1947,Australia
+RG-50.030.0289,1994,177,A83515-A83686,Q82133-Q82304,No restrictions,https://collections.ushmm.org/search/catalog/irn504773,Raphael Aronson,1918,F,Lithuania,Kaunas,"Landsberg, Dachau",1947,USA
+RG-50.030.0678,2012,126,A83687-A84239,Q82305-Q82852,No restrictions,https://collections.ushmm.org/search/catalog/irn49647,Raymond Turgel,1924,M,Germany,null,null,1938,USA
+RG-50.030.0410,2001,303,A84240-A84559,Q82853-Q83169,No restrictions,https://collections.ushmm.org/search/catalog/irn512935,Regina Laks Gelb,1929,F,Poland,null,"Auschwitz, Ravensbrück",1947,USA
+RG-50.106.0166,2005,229,A84560-A84730,Q83170-Q83342,No restrictions,https://collections.ushmm.org/search/catalog/irn517206,Renate Fischer Chernoff,1929,F,Germany ,null,null,1938,USA
+RG-50.106.0229,2013,115,A84731-A85214,Q83343-Q83820,No restrictions,https://collections.ushmm.org/search/catalog/irn74538,Renate Mann,1927,F,Germany,Chrzanów,Auschwitz,1956,USA
+RG-50.233.0014,1992,67,A85215-A85477,Q83821-Q84088,No restrictions,https://collections.ushmm.org/search/catalog/irn509090,Renee Carasso,1919,F,Greece,null," Malchow, Auschwitz, Birkenau, Ravensbrück",null,USA
+RG-50.106.0113,1994,343,A85478-A85839,Q84089-Q84451,No restrictions,https://collections.ushmm.org/search/catalog/irn506627,Riane Gruss,1932,F,Austria,null,null,1951,USA
+RG-50.462.0039,1992,146,A85840-A86070,Q84452-Q84684,No restrictions,https://collections.ushmm.org/search/catalog/irn508659,Rita Harmelin,1925,F,Romania,null,"Auschwitz, Boryslaw",1949,Australia
+RG-50.030.0002,1994,212,A86071-A86207,Q84685-Q84820,No restrictions,https://collections.ushmm.org/search/catalog/irn504468,Rita Kerner Hilton,1926,F,Poland,"Łódź, Pabianice","Auschwitz, Bergen-Belsen, Birkenau",1946,USA
+RG-50.156.0013,1986,93,A86208-A86344,Q84821-Q84956,No restrictions,https://collections.ushmm.org/search/catalog/irn510667,Robert Fisch,1925,M,Hungary,Budapest,"Gunskirchen, Mauthausen",1956,USA
+RG-50.233.0049,1992,166,A86345-A86384,Q84957-Q84998,No restrictions,https://collections.ushmm.org/search/catalog/irn509131,Robert Gruber,1933,M,Czechoslovakia ,null,null,1948,USA
+RG-50.549.02.0026,1998,135,A86385-A86549,Q84999-Q85164,No restrictions,https://collections.ushmm.org/search/catalog/irn506698,Rochelle Slivka,1922,F,Lithuania,Vilnius,"Kaiserwald, Stutthof",1949,USA
+RG-50.106.0120,1993,101,A86550-A86687,Q85165-Q85301,No restrictions,https://collections.ushmm.org/search/catalog/irn506632,Romana Koplewicz,1919,F,Poland,Warsaw,null,1949,USA
+RG-50.030.0396,1998,488,A86688-A86852,Q85302-Q85470,No restrictions,https://collections.ushmm.org/search/catalog/irn506768,Rosalie Laks Lerman,1926,F,Poland,Starachowice,"Auschwitz, Auschwitz II-Birkenau, Ravensbrück",1947,USA
+RG-50.462.0006,1982,107,A86853-A87108,Q85471-Q85726,No restrictions,https://collections.ushmm.org/search/catalog/irn508627,Rose Fine,1917,F,Poland,"Ozorków, Łódź","Freiberg, Auschwitz, Mauthausen",1949,USA
+RG-50.030.0044,1989,121,A87109-A87272,Q85727-Q85895,No restrictions,https://collections.ushmm.org/search/catalog/irn504544,Rose Galek Brunswic,1920,F,Poland,Warsaw,null,null,USA
+RG-50.106.0103,1998,54,A87273-A87460,Q85896-Q86083,No restrictions,https://collections.ushmm.org/search/catalog/irn506675,Rose Weisfeld,1914,F,Poland,null,null,null,USA
+RG-50.030.0651,2011,112,A87461-A87655,Q86084-Q86278,No restrictions,https://collections.ushmm.org/search/catalog/irn45042,Rubin Pizem,1930,M,Poland,null,null,null,USA
+RG-50.165.0003,1989,94,A87656-A87774,Q86279-Q86393,No restrictions,https://collections.ushmm.org/search/catalog/irn511228,Ruth Berger,1919,F,Ukraine,null,"Stutthof, Auschwitz, Bromberg-Brahnau",1947,USA
+RG-50.030.0035,1990,85,A87775-A87815,Q86394-Q86417,No restrictions,https://collections.ushmm.org/search/catalog/irn504539,Ruth Borsos,1923,F,Germany,null,"Bergen-Belsen, Westerbork",1947,USA
+RG-50.030.0161,1990,106,A87816-A87870,Q86418-Q86436,no commercial,https://collections.ushmm.org/search/catalog/irn504659,Ruth Krautwirth Meyerowitz,1929,F,Germany,null,"Malchow, Auschwitz, Ravensbrück, Auschwitz",1947,USA
+RG-50.233.0044,1992,148,A87871-A87973,Q86437-Q86545,No restrictions,https://collections.ushmm.org/search/catalog/irn509126,Sabina Green,1922,F,Poland,null,null,1960,USA
+RG-50.156.0060,1982,149,A87974-A88177,Q86546-Q86751,No restrictions,https://collections.ushmm.org/search/catalog/irn510714,Sabina S. Zimering,1923,F,poland,null,null,1950,USA
+RG-50.462.0026,1981,168,A88178-A88452,Q86752-Q87027,No restrictions,https://collections.ushmm.org/search/catalog/irn508493,Sally Abrams,1916,F,Poland,Łódź,"Auschwitz, Bergen-Belsen, Gross-Rosen, Unterlüss",1951,USA
+RG-50.156.0004,1992,91,A88453-A88630,Q87028-Q87203,No restrictions,https://collections.ushmm.org/search/catalog/irn510655,Sam Bankhalter,1926,M,Poland ,Łódź,"Buchenwald, Auschwitz",1956,USA
+RG-50.030.0324,1995,89,A88631-A88682,Q87204-Q87254,No restrictions,https://collections.ushmm.org/search/catalog/irn504818,Sam Spiegel,1922,M,Poland,Kozienice,"Pionki, Auschwitz, Gleiwitz I",1947,USA
+RG-50.030.0087,1991,184,A88683-A88811,Q87255-Q87369,no commercial,https://collections.ushmm.org/search/catalog/irn504582,Samuel Gruber,1913,M,Poland,null,Majdanek,1949,USA
+RG-50.030.0388,1922,194,A88812-A88936,Q87370-Q87496,No restrictions,https://collections.ushmm.org/search/catalog/irn506410,Samuel Makower,1922,M,Poland,Minsk,null,1956,USA
+RG-50.462.0068,1983,85,A88937-A89145,Q87497-Q87705,No restrictions,https://collections.ushmm.org/search/catalog/irn508692,Samuel Sherron,1932,M,Lithuania,null,"Heydekrug, Auschwitz, Dachau, Birkenau, Mühldorf",null,USA
+RG-50.462.0099,1985,70,A89146-A89297,Q87706-Q87856,No Restrictions,https://collections.ushmm.org/search/catalog/irn508740,Sara Schwimmer,1926,F,Czechoslovakia,Budapest,"Ravensbrück, Türkheim",null,USA
+RG-50.469.0004,1997,146,A89298-A89491,Q87857-Q88054,No restrictions,https://collections.ushmm.org/search/catalog/irn513719,Sarah Loewy,1910,F,Poland,null,null,1939,USA
+RG-50.030.0513,2007,222,A89492-A90062,Q88055-Q88625,No restrictions,https://collections.ushmm.org/search/catalog/irn518786,Sarah Zelazny,1934,F,Poland,null,null,1971,USA
+RG-50.030.0099,1990,80,A90063-A90093,Q88626-Q88647,no commercial,https://collections.ushmm.org/search/catalog/irn504593 ,Saul Ingber,1921,M,Romania,null,"Dachau, Ebensee, Mauthausen",1957,USA
+RG-50.030.0159,1990,124,A90094-A90154,Q88648-Q88689,no commercial,https://collections.ushmm.org/search/catalog/irn504653,Semyon Menyuk,1922,M,Poland,Kolki,null,1976,USA
+RG-50.233.0026,1992,89,A90155-A90206,Q88690-Q88741,No restrictions,https://collections.ushmm.org/search/catalog/irn509104,Sevek Fishman,1918,M,Poland,Warsaw,null,1948,USA
+RG-50.030.0529,2009,186,A90207-A90735,Q88742-Q89271,No restrictions,https://collections.ushmm.org/search/catalog/irn37871,Sholom Rosenheck,1929,M,Czechoslovakia ,Mátészalka,"Bergen-Belsen, Augsburg-Messerschmitt, Sachsenhausen, Auschwitz, Birkenau, Dachau, Trzebinia",1950,USA
+RG-50.030.0696,2013,62,A90736-A90877,Q89272-Q89415,No restrictions,https://collections.ushmm.org/search/catalog/irn59193,Shulim Jonas,1917,M,Poland,null,null,1949,USA
+RG-50.030.0490,2004,262,A90878-A91826,Q89416-Q90371,No restrictions,https://collections.ushmm.org/search/catalog/irn516104,Sibylle Sarah Niemöller,1923,F,Germany,null,null,1956,USA
+RG-50.042.0013,1992,82,A91827-A91849,Q90372-Q90399,No restrictions,https://collections.ushmm.org/search/catalog/irn505567,Siegfried Halbreich,1909,M,Poland,null,"Auschwitz III-Monowitz, Gross-Rosen, Mittelbau-Dora, Sachsenhausen",1946,USA
+RG-50.030.0397,1999,257,A91850-A92094,Q90400-Q90645,No restrictions,https://collections.ushmm.org/search/catalog/irn507287,Sigmund Strochlitz,1916,F,Poland,Będzin,"Dautmergen, Auschwitz, Auschwitz II-Birkenau",1951,USA
+RG-50.030.0338,1995,162,A92095-A92180,Q90646-Q90732,No restrictions,https://collections.ushmm.org/search/catalog/irn504832,Simon Federman,1926,M,France,null,null,1948,USA
+RG-50.549.02.0018,1998,256,A92181-A92502,Q90733-Q91054,No restrictions,https://collections.ushmm.org/search/catalog/irn506653,Simone Weil Lipman,1920,F,France,null,Rivesaltes,1945,USA
+RG-50.462.0087,1999,129,A92503-A92672,Q91055-Q91225,No restrictions,https://collections.ushmm.org/search/catalog/irn508728,Simone Zuckermann Horowitz,1926,F,France ,null,"Auschwitz, Auschwitz II-Birkenau, Drancy",1948,USA
+RG-50.156.0051,1983,94,A92673-A92728,Q91226-Q91281,No restrictions,https://collections.ushmm.org/search/catalog/irn510705,Seva Scheer,1918,F,Poland,Łódź,"Auschwitz, Birkenau, Ravensbrück, Mauthausen, Bergen-Belsen.",1951,USA
+RG-50.030.0735,2013,84,A92729-A93347,Q91282-Q91901,No restrictions,https://collections.ushmm.org/search/catalog/irn76709,Sol Kohn,1917,M,Germany,null,null,1938,USA
+RG-50.549.02.0031,1998,247,A93348-A93800,Q91902-Q93521,No restrictions,https://collections.ushmm.org/search/catalog/irn506746,Sol Lurie,1930,M,Lithuania,Kaunas,"Buchenwald, Auschwitz, Auschwitz II-Birkenau",1946,USA
+RG-50.030.0322,1995,179,A93801-A93904,Q93522-Q93622,No restrictions,https://collections.ushmm.org/search/catalog/irn504816,Solomon Fox,1922,M,Poland,"Łódź, Warsaw",Sachsenhausen,1949,USA
+RG-50.030.0305,1995,199,A93905-A94033,Q93623-Q93738,No restrictions,https://collections.ushmm.org/search/catalog/irn504800,Solomon Radasky,1910,M,Poland,Warsaw,"Majdanek, Auschwitz, Dachau, Gross-Rosen",1949,USA
+RG-50.233.0139,1992,183,A94034-A94136,Q93739-Q93840,No restrictions,https://collections.ushmm.org/search/catalog/irn509221,Solomon Urbach,1928,M,Poland ,Kraków,"Kraków-Plaszów, Gross-Rosen, Brinlitz",1949,USA
+RG-50.030.0025,1994,164,A94137-A94281,Q93841-Q93991,No restrictions,https://collections.ushmm.org/search/catalog/irn504532,Sonia Bielski,1922,F,Poland ,Nowogródek,null,1956,USA
+RG-50.030.0332,1995,121,A94282-A94460,Q93992-Q94164,No restrictions,https://collections.ushmm.org/search/catalog/irn504826,Sonia Heidocovsky Zissman,1922,F,Poland ,"Dvarets, Dziatlava",null,1948,USA
+RG-50.462.0121,1985,356,A94461-A95326,Q94165-Q95024,No restrictions,https://collections.ushmm.org/search/catalog/irn515646,Sonja Samson,1934,F,Germany,null,"Gurs, Rivesaltes",1947,USA
+RG-50.030.0412,2001,150,A95327-A96085,Q95025-Q95783,No restrictions,https://collections.ushmm.org/search/catalog/irn508494,Sophie Koper,1916,F,Russia ,Warsaw,null,1947,USA
+RG-50.462.0096,1988,82,A96086-A96208,Q95784-Q95903,No restrictions,https://collections.ushmm.org/search/catalog/irn508737,Sophie Roth,1930,F,Poland,Złoczów," Laszczow, Kosice",1952,USA
+RG-50.030.0217,1989,60,A96209-A96221,Q95904-Q95914,No restrictions,https://collections.ushmm.org/search/catalog/irn504709,Stanislaw Soszynski,1931,M,Poland ,Warsaw,ghetto,null,USA
+RG-50.030.0737,2014,214,A96222-A96771,Q95915-Q96466,No restrictions,https://collections.ushmm.org/search/catalog/irn76711,Stanley Kiersnowski,1926,M,Poland,null,null,1948,USA
+RG-50.030.0387,1998,299,A96772-A97022,Q96467-Q96717,No restrictions,https://collections.ushmm.org/search/catalog/irn505918,Stefan Czyzewski,1922,M,Poland,null,"Gross-Rosen, Mauthausen",1949,USA
+RG-50.030.0791,2015,260,A97023-A98105,Q96718-Q97766,No restrictions,https://collections.ushmm.org/search/catalog/irn96025,Stella Tobis,1928,F,Belarus,null,Teshwava,1946,USA
+RG-50.030.0494,2005,264,A98106-A99058,Q97767-Q98721,No restrictions,https://collections.ushmm.org/search/catalog/irn516733,Steven Fenves,1931,M,Serbia,Subotica,"Buchenwald, Niederorschel, Auschwitz",1950,USA
+RG-50.030.0220,1990,87,A99059-A99095,Q98722-Q98740,no commercial ,https://collections.ushmm.org/search/catalog/irn504712,Steven Springfield,1923,M,Lativia,Riga,"Stutthof, Riga-Kaiserwald",1947,USA
+RG-50.030.0399,1999,216,A99096-A99347,Q98741-Q98990,No restrictions,https://collections.ushmm.org/search/catalog/irn507290,Sulamif Shreyber Zhabinskaya,1928,F,Lithuania,Vilnius,"Stutthof, Riga-Kaiserwald",1989,Canada 
+RG-50.106.0159,2003,94,A99348-A99447,Q98991-Q99091,No restrictions,https://collections.ushmm.org/search/catalog/irn520748,Susan Berlin,1926,F,Czechoslovakia ,null,null,1947,USA
+RG-50.030.0326,1995,206,A99448-A99577,Q99092-Q99214,No restrictions,https://collections.ushmm.org/search/catalog/irn504820,Susan Eisdorfer Beer,1924,F,Hungary,null,"Auschwitz, Ravensbrück",1948,USA
+RG-50.462.0005,1983,232,A99578-A99625,Q99215-Q99214,No restrictions,https://collections.ushmm.org/search/catalog/irn508626,Susan Faulkner,1921,F,Germany ,null,null,1940,USA
+RG-50.549.02.0024,1998,169,A99626-A99779,Q99215-Q99373,No restrictions,https://collections.ushmm.org/search/catalog/irn506753,Susie Schwarz,1931,M,Germany,null,null,1947,USA
+RG-50.462.0104,2001,142,A99780-A99896,Q99374-Q99491,No restrictions,https://collections.ushmm.org/search/catalog/irn515623,Sylvia Ebner,1929,F,Hungary,null,"Auschwitz, Auschwitz II-Birkenau, Ober-Hohenelbe, Auschwitz",null,Canada 
+RG-50.030.0466,1996,153,A99897-A100070,Q99492-Q99663,No restrictions,https://collections.ushmm.org/search/catalog/irn511184,Sylvia Farber Green,1924,F,Germany,Plaszów,"Auschwitz, Bergen-Belsen",1946,USA
+RG-50.233.0096,1992,84,A100071-A100221,Q99664-Q99813,No restrictions,https://collections.ushmm.org/search/catalog/irn509179,Sylvia Murawski,1928,F,Poland,Warsaw,null,1968,USA
+RG-50.030.0677,2012,102,A100222-A100462,Q99814-Q99959,No restrictions,https://collections.ushmm.org/search/catalog/irn49549,Sylvia Rosen,1924,F,Poland ,Sokolow Podlaski ,Majdanek,1948,USA
+RG-50.462.0098,1989,143,A100463-A101198,Q99960-Q100695,No restrictions,https://collections.ushmm.org/search/catalog/irn508739,Sylvia Schneider,1928,F,Poland,null,null,1947,USA
+RG-50.030.0028,1990,180,A101199-A101310,Q100696-Q100721,No restrictions,https://collections.ushmm.org/search/catalog/irn508320,Thomas Blatt,1927,M,Poland,Stryi,Sobibór,1959,USA
+RG-50.030.0046,1990,78,A101311-A101354,Q100722-Q100754,No commercial ,https://collections.ushmm.org/search/catalog/irn504546,Thomas Buergenthal,1934,M,Czechoslovakia,Kielce,"Oranienburg-Heinkelwerke, Sachsenhausen, Auschwitz, Treblinka",1951,USA
+RG-50.030.0224,1990,110,A101355-A101391,Q100755-Q100791,no commercial,https://collections.ushmm.org/search/catalog/irn504715,Toby Stern,1920,F,Romania,null,"Malchow, Auschwitz, Ravensbrück",1950,USA
+RG-50.030.0394,1998,90,A101392-A101505,Q100792-Q100905,No restrictions,https://collections.ushmm.org/search/catalog/irn506449,Trude Heller,1922,F,Austria,null,null,1939,USA
+RG-50.030.0488,2004,274,A101506-A102026,Q100906-Q101430,No restrictions,https://collections.ushmm.org/search/catalog/irn515580,Ursula Pawel,1926,F,Germany,null,"Auschwitz, Kudowa-Sackisch, Theresienstadt",1947,USA
+RG-50.030.0561,2009,75,A102027-A102121,Q101431-Q101524,No restrictions,https://collections.ushmm.org/search/catalog/irn41511,Vera Glasberg,1912,F,Latvia,null,null,1941,USA
+RG-50.150.0029,1977,133,A102122-A102293,Q101525-Q101698,No restrictions,https://collections.ushmm.org/search/catalog/irn510632,Vera Oppenheim,1924,F,Germany,Riga,"Stutthof, Auschwitz, Riga-Kaiserwald",1947,USA
+RG-50.233.0064,1992,86,A102294-A102345,Q101699-Q101749,No restrictions,https://collections.ushmm.org/search/catalog/irn509147,Walter Lachman,1928,M,Germany,Riga,"Riga-Kaiserwald, Bergen-Belsen",1946,USA
+RG-50.030.0371,1996,226,A102346-A102453,Q101750-Q101862,No restrictions,https://collections.ushmm.org/search/catalog/irn504864,Walter Meyer,1926,M,Germany,null,"Sachsenhausen, Ravensbrück",1958,USA
+RG-50.030.0206,1989,102,A102454-A102505,Q101863-Q101913,No restrictions,https://collections.ushmm.org/search/catalog/irn506772,Walter Schnell,1904,M,Germany,null,Buchenwald,1947,USA
+RG-50.462.0069,1981,290,A102506-A103236,Q101914-Q102642,No restrictions,https://collections.ushmm.org/search/catalog/irn508693,Walter Silberstein,1902,M,Germany,Shanghai,null,1951,USA
+RG-50.030.0698,2013,180,A103237-A103555,Q102643-Q102961,No restrictions,https://collections.ushmm.org/search/catalog/irn59194,Wanda Wos Lorenc,1928,F,Poland,null,"Flossenbürg, Ravensbrück",1951,USA
+RG-50.030.0084,1990,64,A103556-A103613,Q102962-Q103019,No commercial,https://collections.ushmm.org/search/catalog/irn504579,Werner Goldsmith,1928,M,Germany,null,null,1941,USA
+RG-50.106.0145,2001,67,A103614-A103689,Q103020-Q103098,No restrictions,https://collections.ushmm.org/search/catalog/irn509407,Werner Katzenstein,1922,M,Germany ,null,null,1939,USA
+RG-50.030.0523,2008,217,A103690-A104231,Q103099-Q103663,No restrictions,https://collections.ushmm.org/search/catalog/irn35788,Werner Kleeman,1919,M,Germany,null,null,1939,USA
+RG-50.030.0071,1990,58,A104232-A104270,Q103664-Q103691,no commercial ,https://collections.ushmm.org/search/catalog/irn504567,William Farkas,1916,M,Romania,null,"Sighişoara, Valea Homorod, Kinapist, Timişoara, Doaga",1961,USA
+RG-50.233.0055,1992,183,A104271-A104494,Q103692-Q103919,No restrictions,https://collections.ushmm.org/search/catalog/irn509137,William Himmelfarb,1927,M,Poland,null,"Skarzysko-Kamienna, Buchenwald, Schlieben, Theresienstadt, Czestochowa",1950,USA
+RG-50.106.0123,1993,91,A104495-A104824,Q103920-Q104250,No restrictions,https://collections.ushmm.org/search/catalog/irn506643,William Klein,1924,M,Czechoslovakia ,"Uzhhorod, Warsaw","Auschwitz, Dachau",1951,USA
+RG-50.549.01.0006,1995,198,A104825-A104903,Q104251-Q104327,No restrictions,https://collections.ushmm.org/search/catalog/irn504891,William Loew,1925,M,Poland,null,"Auschwitz, Flossenbürg",1949,USA
+RG-50.030.0140,1991,121,A104904-A104946,Q104328-Q104363,no commercial,https://collections.ushmm.org/search/catalog/irn504634,William Luksenburg,1923,M,Poland,null,"Gleiwitz I, Flossenbürg, Blechhammer",1948,USA
+RG-50.165.0067,1988,190,A104947-A105277,Q104364-Q104692,No restrictions,https://collections.ushmm.org/search/catalog/irn511292,Willie Lieberman,1923,M,Czechoslovakia,null,"Kaiserwald, Riga",1949,USA
+RG-50.030.0788,2015,212,A105278-A105879,Q104693-Q105293,No restrictions,https://collections.ushmm.org/search/catalog/irn96021,Witold Pawlikowski,1931,M,Poland,null,null,1951,USA
+RG-50.030.0195,1990,80,A105880-A105916,Q105294-Q105314,No restrictions,https://collections.ushmm.org/search/catalog/irn504690,Yaffa Rosenthal,1926,F,Czechoslovakia ,Budapest,Bergen-Belsen,1959,USA
+RG-50.106.0062,1997,80,A105917-A105970,Q105315-Q105371,No restrictions,https://collections.ushmm.org/search/catalog/irn507560,Yehuda Adam,1929,M,Hungary,null,null,1962,USA
+RG-50.030.0499,2005,180,A105971-A106569,Q105372-Q105974,No restrictions,https://collections.ushmm.org/search/catalog/irn517613,Zdenko John Bergl,1929,M,Croatia,null,null,1949,USA
+RG-50.030.0041,1989,51,A106570-A106614,Q105975-Q106018,No restrictions,https://collections.ushmm.org/search/catalog/irn504543,Zelda Piekarska Brodecki,1928,F,Poland ,null,"Sosnowiec, Gross-Rosen, Ludwigsdorf",1949,USA
+RG-50.030.0018,1994,112,A106615-A106789,Q106019-Q106183,No restrictions,https://collections.ushmm.org/search/catalog/irn504531,Zina Schulz Baum,1928,F,Poland,Lakhva,null,1948,Canada 
+RG-50.030.0526,2008,171,A106790-A107046,Q106184-Q106443,No restrictions,https://collections.ushmm.org/search/catalog/irn36918,Zygmund Shipper,1930,M,Poland,Łódź,"Neustadt in Holstein, Auschwitz, Neuengamme, Stutthof",1946,England
+RG-50.549.03.0004,2001,179,A107047-A107125,Q106444-Q106519,No restrictions,https://collections.ushmm.org/search/catalog/irn509061,Norman Salsitz,1920,M,Poland,"Kolbuszowa, Rzeszów",null,1947,USA

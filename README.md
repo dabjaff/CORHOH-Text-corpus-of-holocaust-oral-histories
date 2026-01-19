@@ -13,34 +13,6 @@ This release is a **modified version** of an earlier CORHOH build. In the previo
   - **Questions:** 106,702  
   - **Answers:** 107,305  
 
-A corresponding revision note is recorded in the TEI header (`<revisionDesc>`).
-
----
-
-## Technical Features & Data Quality
-
-### TEI-Based Header Standardization
-
-The corpus includes a standardized TEI header to improve interoperability and long-term preservation:
-
-- **`<fileDesc>`**: Bibliographic and publication metadata (title, publication statement, source description)
-- **`<revisionDesc>`**: Version history and corpus-level modifications (including the correction described above)
-- (Where applicable in earlier/alternate builds) **`<profileDesc>`**: Descriptive profiling such as abstracts  
-
-*Note:* CORHOH versions may differ in whether the abstract is placed under `<publicationStmt>` or `<profileDesc>`. The “with_header_and_note_v2” style places the abstract within `<publicationStmt>`.
-
-### “Ultra Clean” Character Encoding
-
-An “Ultra Clean” normalization pass was applied to remove legacy character-encoding artifacts that typically arise from mixed encodings (e.g., Mac Roman, Windows-1252, UTF-8 misreads). Examples of fixes include:
-
-- **Apostrophes & quotes:** normalization of corrupted characters into standard `'` and `"` where possible
-- **Dashes:** replacement of dash artifacts with standard hyphen/en dash/em dash where appropriate
-- **Special characters:** correction of common mojibake sequences and replacement characters
-
-This improves downstream search, NLP processing, and reproducibility across platforms.
-
----
-
 ## Corpus Structure
 
 ### Record-Level Organization

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.tei-c.org/ns/1.0"
+           xmlns="http://www.tei-c.org/ns/1.0"
+           elementFormDefault="qualified">
+
+  <xs:element name="TEI">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="teiHeader" type="teiHeaderType"/>
+        <xs:element name="CORHOH" type="CORHOHType"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:complexType name="teiHeaderType">
+    <xs:sequence>
+      <xs:element name="fileDesc" type="fileDescType"/>
+      <xs:element name="profileDesc" type="profileDescType"/>
+      <xs:element name="revisionDesc" type="revisionDescType"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="fileDescType">
+    <xs:sequence>
+      <xs:element name="titleStmt">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="title" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="respStmt">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="resp" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="publicationStmt">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="publisher" type="xs:string"/>
+            <xs:element name="date" type="xs:integer"/>
+            <xs:element name="availability">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="licence" type="xs:string"/>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="sourceDesc">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="bibl">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="title" type="xs:string"/>
+                  <xs:element name="author" type="xs:string"/>
+                  <xs:element name="pubPlace" type="xs:string"/>
+                  <xs:element name="date" type="xs:integer"/>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="p" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="profileDescType">
+    <xs:sequence>
+      <xs:element name="abstract" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="revisionDescType">
+    <xs:sequence>
+      <xs:element name="change" maxOccurs="unbounded">
+        <xs:complexType>
+          <xs:simpleContent>
+            <xs:extension base="xs:string">
+              <xs:attribute name="when" type="xs:date" use="required"/>
+            </xs:extension>
+          </xs:simpleContent>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="CORHOHType">
+    <xs:sequence>
+      <xs:element name="text" maxOccurs="unbounded">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="meta" type="metaType"/>
+            <xs:element name="text" type="transcriptType"/>
+          </xs:sequence>
+          <xs:attribute name="id" type="xs:string" use="required"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="metaType">
+    <xs:sequence>
+      <xs:element name="Oral_History_Details">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="Documents_ID" type="xs:string"/>
+            <xs:element name="Rec_Date" type="xs:string"/>
+            <xs:element name="Rec_Length" type="xs:string"/>
+            <xs:element name="A_Number" type="xs:string"/>
+            <xs:element name="Q_Number" type="xs:string"/>
+            <xs:element name="permission_type" type="xs:string"/>
+            <xs:element name="Link" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="Individual_Meta_Data">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="Name" type="xs:string"/>
+            <xs:element name="DOB" type="xs:string"/>
+            <xs:element name="Gender" type="xs:string"/>
+            <xs:element name="Born" type="xs:string"/>
+            <xs:element name="Ghetto" type="xs:string"/>
+            <xs:element name="Camp" type="xs:string"/>
+            <xs:element name="Imm_Date" type="xs:string"/>
+            <xs:element name="Imm_Destination" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="transcriptType">
+    <xs:sequence>
+      <xs:element name="body">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="div">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="head" type="xs:string"/>
+                  <xs:element name="div" maxOccurs="unbounded">
+                    <xs:complexType>
+                      <xs:sequence>
+                        <xs:element name="speaker">
+                          <xs:complexType>
+                            <xs:simpleContent>
+                              <xs:extension base="xs:string">
+                                <xs:attribute name="role" type="xs:string" use="required"/>
+                              </xs:extension>
+                            </xs:simpleContent>
+                          </xs:complexType>
+                        </xs:element>
+                        <xs:element name="u" type="xs:string"/>
+                      </xs:sequence>
+                      <xs:attribute name="type" type="xs:string" use="required"/>
+                    </xs:complexType>
+                  </xs:element>
+                </xs:sequence>
+                <xs:attribute name="type" type="xs:string" use="required"/>
+              </xs:complexType>
+            </xs:element>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+</xs:schema>
